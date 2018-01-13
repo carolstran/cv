@@ -4,7 +4,8 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 
 [@carolstran](https://twitter.com/carolstran) / [carolynstransky@gmail.com](mailto:carolynstransky@gmail.com) / [github.com/carolstran](https://github.com/carolstran)
 
-**You can find a [single-page PDF](https://github.com/carolstran/cv/blob/master/one-pager/StranskyCV.pdf) version of my CV within this repo.** But if you want a more detailed overview, than you're in the right place!
+**You can find a [single-page PDF](https://github.com/carolstran/cv/blob/master/one-pager/StranskyCV.pdf) version of my CV within this repo.** <br> But if you want a more detailed overview, than you're in the right place!
+<br><br>
 
 ## 👩🏻‍💻 Industry Experience
 
@@ -32,6 +33,7 @@ Blockchain technology that empowers creators to truly own digital art
     * Highlights:
         * Rolled out [BigchainDB](https://www.bigchaindb.com/) and [WhereOnThe.Net](https://www.whereonthe.net/)
         * [Outreach material for the ascribe platform](https://www.linkedin.com/in/carolstran/detail/treasury/position:763046435/)
+<br><br>
 
 ## 💻 Technologies I Work With
 
@@ -46,6 +48,7 @@ Node.js, Express.js, PostgreSQL
 
 * **Tools and IDEs**<br>
 Git, GitHub, Atom, Contentful, Adobe Creative Suite
+<br><br>
 
 ## 🗯 Speaking
 
@@ -64,10 +67,11 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
         * [React Day Berlin](http://reactday.berlin/#speakers) ⚡️ _(Dec 2017)_ - [Slides 🖥](https://speakerdeck.com/carolstran/humanizing-your-documentation-lighting-talk) [Recording 🎥](https://www.youtube.com/watch?v=jY2xglypPkQ)
 <br><br>
     * **Self-care in Tech** <br>
-    A talk about the lack of self-care in the tech industry and how you can build your own self-care toolkit.
+    A talk about the lack of self-care in the tech industry and how you can build your own self-care toolkit
         * [Women Who Code Berlin](https://www.meetup.com/Women-Who-Code-Berlin-Germany/events/244628599/) _(Nov 2017)_ - [Slides 🖥](https://speakerdeck.com/carolstran/self-care-in-tech)
         * [GDG DevFest Berlin](https://2017.devfest-berlin.de/schedule/day2?sessionId=2010021) ⚡️ _(Nov 2017)_ - [Slides 🖥](https://speakerdeck.com/carolstran/self-care-in-tech)
         * Write the Docs Prague ⚡️ _(Sep 2017)_ - [Recording 🎥](https://www.youtube.com/watch?v=NDOJnMsELJU)
+<br><br>
 
 ## 🌐  On The Side
 
@@ -88,7 +92,7 @@ Magazine for socially conscious young people who want to create their own media
 An online platform to report and retrieve lost & found objects for travelers abroad
     * Won _Best Project_ at the hackathon
     * Source code available on [GitHub](https://github.com/lcorr8/qarma)
-
+<br><br>
 
 ## 👩🏻‍🎓 Education
 

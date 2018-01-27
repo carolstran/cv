@@ -53,9 +53,6 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 ## 🗯 Speaking
 
 * #### Upcoming Talks
-    * **DevConf.cz** in Brno, Czech Republic 🇨🇿  _(Jan 26, 2018)_
-    <br>[Humanizing Your Documentation](https://devconfcz2018.sched.com/event/DJVT/humanizing-your-documentation)
-
     * **:clojureD Conference** in Berlin, Germany 🇩🇪 _(Feb 24, 2018)_
     <br>[Self-care in Tech ⚡️](http://clojured.de/schedule/#carolynStransky)
 
@@ -64,6 +61,7 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 * #### Past Talks
     * **Humanizing Your Documentation** <br>
     A full and lightning talk focused on how to create accessible, approachable, and use case-driven documentation
+        * [DevConf.cz](https://devconfcz2018.sched.com/event/DJVT/humanizing-your-documentation) _(Jan 2018)_ - [Slides 🖥](https://speakerdeck.com/carolstran/humanizing-your-documentation-devconf-dot-cz)
         * [React Day Berlin](http://reactday.berlin/#speakers) ⚡️ _(Dec 2017)_ - [Slides 🖥](https://speakerdeck.com/carolstran/humanizing-your-documentation-lighting-talk) [Recording 🎥](https://www.youtube.com/watch?v=jY2xglypPkQ)
 <br><br>
     * **Self-care in Tech** <br>

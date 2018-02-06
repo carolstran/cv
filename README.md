@@ -53,6 +53,9 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 ## 🗯 Speaking
 
 * #### Upcoming Talks
+    * **BerlinJS Meetup** in Berlin, Germany 🇩🇪 _(Feb 15, 2018)_
+    <br>[Humanizing Your Documentation](http://meetu.ps/e/DxYSM/vt7Hk/f)
+
     * **:clojureD Conference** in Berlin, Germany 🇩🇪 _(Feb 24, 2018)_
     <br>[Self-care in Tech ⚡️](http://clojured.de/schedule/#carolynStransky)
 
@@ -61,14 +64,14 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 * #### Past Talks
     * **Humanizing Your Documentation** <br>
     A full and lightning talk focused on how to create accessible, approachable, and use case-driven documentation
-        * [DevConf.cz](https://devconfcz2018.sched.com/event/DJVT/humanizing-your-documentation) _(Jan 2018)_ - [Slides 🖥](https://speakerdeck.com/carolstran/humanizing-your-documentation-devconf-dot-cz)
+        * [DevConf.cz](https://devconfcz2018.sched.com/event/DJVT/humanizing-your-documentation) _(Jan 2018)_ - [Slides 🖥](https://speakerdeck.com/carolstran/humanizing-your-documentation-devconf-dot-cz) [Recording 🎥](https://www.youtube.com/watch?v=8LpZDLMo0PM)
         * [React Day Berlin](http://reactday.berlin/#speakers) ⚡️ _(Dec 2017)_ - [Slides 🖥](https://speakerdeck.com/carolstran/humanizing-your-documentation-lighting-talk) [Recording 🎥](https://www.youtube.com/watch?v=jY2xglypPkQ)
 <br><br>
     * **Self-care in Tech** <br>
     A talk about the lack of self-care in the tech industry and how you can build your own self-care toolkit
         * [Women Who Code Berlin](https://www.meetup.com/Women-Who-Code-Berlin-Germany/events/244628599/) _(Nov 2017)_ - [Slides 🖥](https://speakerdeck.com/carolstran/self-care-in-tech)
         * [GDG DevFest Berlin](https://2017.devfest-berlin.de/schedule/day2?sessionId=2010021) ⚡️ _(Nov 2017)_ - [Slides 🖥](https://speakerdeck.com/carolstran/self-care-in-tech)
-        * Write the Docs Prague ⚡️ _(Sep 2017)_ - [Recording 🎥](https://www.youtube.com/watch?v=NDOJnMsELJU)
+        * [Write the Docs Prague](http://www.writethedocs.org/conf/eu/2017/lightning-talks/) ⚡️ _(Sep 2017)_ - [Recording 🎥](https://www.youtube.com/watch?v=NDOJnMsELJU)
 <br><br>
 
 ## 🌐  On The Side

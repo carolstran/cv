@@ -53,25 +53,25 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 ## 🗯 Speaking
 
 * #### Upcoming Talks
-    * **BerlinJS Meetup** in Berlin, Germany 🇩🇪 _(Feb 15, 2018)_
-    <br>[Humanizing Your Documentation](http://meetu.ps/e/DxYSM/vt7Hk/f)
+    * **JSConf Iceland** in Reykjavik, Iceland 🇮🇸 _(Mar 1-2, 2018)_
+    <br>[Humanizing Your Documentation](https://2018.jsconf.is/speakers/carolyn-stransky/)
 
-    * **:clojureD Conference** in Berlin, Germany 🇩🇪 _(Feb 24, 2018)_
-    <br>[Self-care in Tech ⚡️](http://clojured.de/schedule/#carolynStransky)
-
-    * **JSConf Iceland** in Reykjavik, Iceland 🇮🇸 _(Mar 1-2, 2018)_ <br>[Humanizing Your Documentation](https://2018.jsconf.is/speakers/carolyn-stransky/)
+    * **React.NotAConf** in Sofia, Bulgaria 🇧🇬 _(Apr 28, 2018)_
+    <br>[Humanizing Your Documentation](http://react-not-a-conf.com/#ts-speakers)
 
 * #### Past Talks
-    * **Humanizing Your Documentation** <br>
+    * **Humanizing Your Documentation** - [Slides](https://speakerdeck.com/carolstran) 🖥 <br>
     A full and lightning talk focused on how to create accessible, approachable, and use case-driven documentation
-        * [DevConf.cz](https://devconfcz2018.sched.com/event/DJVT/humanizing-your-documentation) _(Jan 2018)_ - [Slides 🖥](https://speakerdeck.com/carolstran/humanizing-your-documentation-devconf-dot-cz) [Recording 🎥](https://www.youtube.com/watch?v=8LpZDLMo0PM)
-        * [React Day Berlin](http://reactday.berlin/#speakers) ⚡️ _(Dec 2017)_ - [Slides 🖥](https://speakerdeck.com/carolstran/humanizing-your-documentation-lighting-talk) [Recording 🎥](https://www.youtube.com/watch?v=jY2xglypPkQ)
+        * BerlinJS Meetup _(Feb 2018)_
+        * DevConf.cz _(Jan 2018)_
+        * React Day Berlin ⚡️ _(Dec 2017)_ - [Recording 🎥](https://www.youtube.com/watch?v=jY2xglypPkQ)
 <br><br>
-    * **Self-care in Tech** <br>
+    * **Self-care in Tech** - [Slides 🖥](https://speakerdeck.com/carolstran/self-care-in-tech)<br>
     A talk about the lack of self-care in the tech industry and how you can build your own self-care toolkit
-        * [Women Who Code Berlin](https://www.meetup.com/Women-Who-Code-Berlin-Germany/events/244628599/) _(Nov 2017)_ - [Slides 🖥](https://speakerdeck.com/carolstran/self-care-in-tech)
-        * [GDG DevFest Berlin](https://2017.devfest-berlin.de/schedule/day2?sessionId=2010021) ⚡️ _(Nov 2017)_ - [Slides 🖥](https://speakerdeck.com/carolstran/self-care-in-tech)
-        * [Write the Docs Prague](http://www.writethedocs.org/conf/eu/2017/lightning-talks/) ⚡️ _(Sep 2017)_ - [Recording 🎥](https://www.youtube.com/watch?v=NDOJnMsELJU)
+        * :clojureD Conference ⚡️ _(Feb 2018)_
+        * Women Who Code Berlin _(Nov 2017)_
+        * GDG DevFest Berlin ⚡️ _(Nov 2017)_
+        * Write the Docs Prague ⚡️ _(Sep 2017)_ - [Recording 🎥](https://www.youtube.com/watch?v=NDOJnMsELJU)
 <br><br>
 
 ## 🌐  On The Side

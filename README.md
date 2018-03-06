@@ -4,13 +4,18 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 
 [@carolstran](https://twitter.com/carolstran) / [carolynstransky@gmail.com](mailto:carolynstransky@gmail.com) / [GitHub](https://www.github.com/carolstran/) / [LinkedIn](https://www.linkedin.com/in/carolstran/)
 
-**You can find a [single-page PDF](https://github.com/carolstran/cv/blob/master/one-pager/StranskyCV.pdf) version of my CV within this repo.** <br> But if you want a more detailed overview, than you're in the right place!
+**You can find a [single-page PDF](https://github.com/carolstran/cv/blob/master/one-pager/StranskyCV.pdf) version of my CV within this repo.** <br> But if you want a more detailed overview, you're in the right place!
 <br><br>
 
 ## 👩🏻‍💻 Industry Experience
 
-* **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Present)_ <br>
+* **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Present)_ <br>
 TBD!
+<br><br>
+* **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
+API-first infrastructure to create, manage and distribute content
+    * Ownership of Contentful's technical blog
+    * Assistance with developer experience documentation, information architecture and UX writing for the web app
 <br><br>
 * **Full Stack Development Student** @ [SPICED Academy](https://www.spiced-academy.com/) _(Apr 2017 - Jun 2017)_ <br>
 Graduate of a 12-week intensive coding course focused on JavaScript
@@ -53,25 +58,18 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 ## 🗯 Speaking
 
 * #### Upcoming Talks
-    * **JSConf Iceland** in Reykjavik, Iceland 🇮🇸 _(Mar 1-2, 2018)_
-    <br>[Humanizing Your Documentation](https://2018.jsconf.is/speakers/carolyn-stransky/)
+    * **Women Techmakers** in Berlin, Germany 🇩🇪  _(Mar 13, 2018)_
+    <br>[Fireside Chat at Honeypot](https://www.meetup.com/Women-Techmakers-Berlin/events/248024886/)
 
     * **React.NotAConf** in Sofia, Bulgaria 🇧🇬 _(Apr 28, 2018)_
     <br>[Humanizing Your Documentation](http://react-not-a-conf.com/#ts-speakers)
 
 * #### Past Talks
-    * **Humanizing Your Documentation** - [Slides](https://speakerdeck.com/carolstran) 🖥 <br>
-    A full and lightning talk focused on how to create accessible, approachable, and use case-driven documentation
-        * BerlinJS Meetup _(Feb 2018)_
-        * DevConf.cz _(Jan 2018)_
-        * React Day Berlin ⚡️ _(Dec 2017)_ - [Recording 🎥](https://www.youtube.com/watch?v=jY2xglypPkQ)
+    * **Humanizing Your Documentation** - [Slides](https://speakerdeck.com/carolstran) 🖥  [Lightning Talk](https://www.youtube.com/watch?v=jY2xglypPkQ) ⚡️<br>
+    A full and lightning talk focused on how to create accessible, approachable and use case-driven documentation
 <br><br>
-    * **Self-care in Tech** - [Slides 🖥](https://speakerdeck.com/carolstran/self-care-in-tech)<br>
-    A talk about the lack of self-care in the tech industry and how you can build your own self-care toolkit
-        * :clojureD Conference ⚡️ _(Feb 2018)_
-        * Women Who Code Berlin _(Nov 2017)_
-        * GDG DevFest Berlin ⚡️ _(Nov 2017)_
-        * Write the Docs Prague ⚡️ _(Sep 2017)_ - [Recording 🎥](https://www.youtube.com/watch?v=NDOJnMsELJU)
+    * **Self-care in Tech** ⚡️ - [Slides 🖥](https://speakerdeck.com/carolstran/self-care-in-tech)<br>
+    A lightning talk about the lack of self-care in the tech industry and how you can build your own self-care toolkit
 <br><br>
 
 ## 🌐  On The Side
@@ -85,9 +83,9 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
 Magazine for socially conscious young people who want to create their own media
     * Writing articles for print and [web](http://www.flurtmag.com/author/carolyn-stransky/)
     * Highlights:
-        * [Internet Self-Care Day 2017](http://www.flurtmag.com/2017/08/internet-self-care-day-2017/)
+        * [Hacktivists Connect Refugees with Work Opportunities](http://www.flurtmag.com/2018/02/hacktivists-connect-refugees-with-work-opportunities/)
+        * [What to Do if You Get Doxed](http://www.flurtmag.com/2018/01/what-to-do-if-you-get-doxed/)
         * [High Tech Sex](https://medium.com/@carolstran/high-tech-sex-46b44c581129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BSSv4DUfPTnSJsQJRoRhdjQ%3D%3D)
-        * [How to Help Refugees in Your Community](http://www.flurtmag.com/2016/08/how-to-help-refugees-in-your-community/)
 <br><br>
 * **Built Qarma** @ [Geek Girl Carrots Berlin Travel Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_ <br>
 An online platform to report and retrieve lost & found objects for travelers abroad

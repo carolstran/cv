@@ -58,8 +58,8 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 ## 🗯 Speaking
 
 * #### Upcoming Talks
-    * **Women Techmakers** in Berlin, Germany 🇩🇪  _(Mar 13, 2018)_
-    <br>[Fireside Chat at Honeypot](https://www.meetup.com/Women-Techmakers-Berlin/events/248024886/)
+    * **EnthusiastiCon** in Berlin, Germany 🇩🇪  _(Mar 31, 2018)_
+    <br>[Self-care in Tech](https://www.enthusiasticon.de/)
 
     * **React.NotAConf** in Sofia, Bulgaria 🇧🇬 _(Apr 28, 2018)_
     <br>[Humanizing Your Documentation](http://react-not-a-conf.com/#ts-speakers)

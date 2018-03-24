@@ -64,13 +64,13 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
     * **React.NotAConf** in Sofia, Bulgaria 🇧🇬 _(Apr 28, 2018)_
     <br>[Humanizing Your Documentation](http://react-not-a-conf.com/#ts-speakers)
 
-    💖 Want me to speak at your event? Here are a list of [talks I'd love to give](https://github.com/carolstran/talks-i-want-to-give/blob/master/future-talks.md) and [my past talks](https://github.com/carolstran/talks-i-want-to-give/blob/master/past-talks.md).
+    💖 Want me to speak at your event? Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.
 
 * #### Past Talks
-    * **Humanizing Your Documentation** - [Slides](https://speakerdeck.com/carolstran) 🖥  [Lightning Talk](https://www.youtube.com/watch?v=jY2xglypPkQ) ⚡️<br>
+    * [**Humanizing Your Documentation**](https://github.com/carolstran/tech-talks/blob/master/abstracts/Humanizing-Your-Docs.md) <br>
     A full and lightning talk focused on how to create accessible, approachable and use case-driven documentation
 <br><br>
-    * **Self-care in Tech** ⚡️ - [Slides 🖥](https://speakerdeck.com/carolstran/self-care-in-tech)<br>
+    * [**Self-care in Tech** ⚡️](https://github.com/carolstran/tech-talks/blob/master/abstracts/Selfcare-In-Tech.md) <br>
     A lightning talk about the lack of self-care in the tech industry and how you can build your own self-care toolkit
 <br><br>
 

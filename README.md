@@ -57,12 +57,16 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 
 ## 🗯 Speaking
 
-* #### Upcoming Talks
-    * **EnthusiastiCon** in Berlin, Germany 🇩🇪  _(Mar 31, 2018)_
-    <br>[Self-care in Tech](https://www.enthusiasticon.de/)
+* #### Upcoming Events
+
+    * **JSUnconf** in Hamburg, Germany 🇩🇪 _(Apr 21-22)_
+    <br>[Maaaaaybe something](http://2018.jsunconf.eu/) 😉
 
     * **React.NotAConf** in Sofia, Bulgaria 🇧🇬 _(Apr 28, 2018)_
     <br>[Humanizing Your Documentation](http://react-not-a-conf.com/#ts-speakers)
+
+    <!-- * **AmsterdamJS** in Amsterdam, The Netherlands 🇳🇱 _(Jun 1, 2018)_
+    <br>[M.C. - Master of Ceremonies](https://amsterdamjs.com/) -->
 
     💖 Want me to speak at your event? Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.
 

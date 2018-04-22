@@ -59,9 +59,6 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 
 * #### Upcoming Events
 
-    * **JSUnconf** in Hamburg, Germany 🇩🇪 _(Apr 21-22)_
-    <br>[Maaaaaybe something](http://2018.jsunconf.eu/) 😉
-
     * **React.NotAConf** in Sofia, Bulgaria 🇧🇬 _(Apr 28, 2018)_
     <br>[Humanizing Your Documentation](http://react-not-a-conf.com/#ts-speakers)
 

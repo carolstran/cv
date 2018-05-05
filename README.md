@@ -62,6 +62,9 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
     * **AmsterdamJS** in Amsterdam, The Netherlands 🇳🇱 _(Jun 1, 2018)_
     <br>[M.C. - Master of Ceremonies](https://amsterdamjs.com/)
 
+    * **Static Sites Berlin** in Berlin, Germany 🇩🇪 _(Jun 25, 2018)_
+    <br>[Choosing the Right Static Site Generator for Your Project's Docs](https://www.meetup.com/Static-Sites-Berlin/events/250424554/)
+
     💖 Want me to speak at your event? Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.
 
 * #### Past Talks

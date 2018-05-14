@@ -60,7 +60,7 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 * #### Upcoming Events
 
     * **AmsterdamJS** in Amsterdam, The Netherlands 🇳🇱 _(Jun 1, 2018)_
-    <br>[M.C. - Master of Ceremonies](https://amsterdamjs.com/)
+    <br>[M.C. - Master of Ceremonies](https://amsterdamjs.com/#hosts)
 
     * **Static Sites Berlin** in Berlin, Germany 🇩🇪 _(Jun 25, 2018)_
     <br>[Choosing the Right Static Site Generator for Your Project's Docs](https://www.meetup.com/Static-Sites-Berlin/events/250424554/)
@@ -89,11 +89,6 @@ Magazine for socially conscious young people who want to create their own media
         * [Hacktivists Connect Refugees with Work Opportunities](http://www.flurtmag.com/2018/02/hacktivists-connect-refugees-with-work-opportunities/)
         * [What to Do if You Get Doxed](http://www.flurtmag.com/2018/01/what-to-do-if-you-get-doxed/)
         * [High Tech Sex](https://medium.com/@carolstran/high-tech-sex-46b44c581129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BSSv4DUfPTnSJsQJRoRhdjQ%3D%3D)
-<br><br>
-* **Built Qarma** @ [Geek Girl Carrots Berlin Travel Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_ <br>
-An online platform to report and retrieve lost & found objects for travelers abroad
-    * Won _Best Project_ at the hackathon
-    * Source code available on [GitHub](https://github.com/lcorr8/qarma)
 <br><br>
 
 ## 👩🏻‍🎓 Education

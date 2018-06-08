@@ -59,17 +59,23 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 
 * #### Upcoming Events
 
-    * **AmsterdamJS** in Amsterdam, The Netherlands 🇳🇱 _(Jun 1, 2018)_
-    <br>[M.C. - Master of Ceremonies](https://amsterdamjs.com/#hosts)
+    * **GraphQL Europe** in Berlin, Germany 🇩🇪 _(Jun 15, 2018)_
+    <br>_Attending_
 
     * **Static Sites Berlin** in Berlin, Germany 🇩🇪 _(Jun 25, 2018)_
     <br>[Choosing the Right Static Site Generator for Your Project's Docs](https://www.meetup.com/Static-Sites-Berlin/events/250424554/)
+
+    * **Write the Docs Prague** in Prague, Czech Republic 🇨🇿 _(Sep 9-11, 2018)_
+    <br>_Attending_
+
+    * **RuhrJS** in Bochum, Germany 🇩🇪 _(Oct 13-14, 2018)_
+    <br>[Humanizing Your Documentation](https://www.ruhrjs.de/speakers/carolyn-stransky)
 
     💖 Want me to speak at your event? Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.
 
 * #### Past Talks
     * [**Humanizing Your Documentation**](https://github.com/carolstran/tech-talks/blob/master/abstracts/Humanizing-Your-Docs.md) <br>
-    A full and lightning talk focused on how to create accessible, approachable and use case-driven documentation
+    A full and lightning talk focused on how to create approachable, inclusive and use case-driven documentation
 <br><br>
     * [**Self-care in Tech** ⚡️](https://github.com/carolstran/tech-talks/blob/master/abstracts/Selfcare-In-Tech.md) <br>
     A lightning talk about the lack of self-care in the tech industry and how you can build your own self-care toolkit
@@ -77,6 +83,10 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 
 ## 🌐  On The Side
 
+* **Organizer** @ [BerlinJS](https://berlinjs.org/) _(May 2018 - Present)_<br>
+A user group focused on JavaScript and related topics that has been running for nearly 10 years
+    * TBD!
+<br><br>
 * **Teaching HTML & CSS** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Sep 2017 - Present)_<br>
 Non-profit digital school for tech-interested newcomers applying for asylum in Germany
     * Planning lessons and leading classes

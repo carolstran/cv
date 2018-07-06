@@ -59,14 +59,20 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 
 * #### Upcoming Events
 
-    * **Static Sites Berlin** in Berlin, Germany 🇩🇪 _(Jun 25, 2018)_
-    <br>[A Look Into SSGs for Open Source Documentation](https://www.meetup.com/Static-Sites-Berlin/events/250424554/)
+    * **Frontend Conference** in Zurich, Switzerland 🇨🇭 _(Aug 30-31, 2018)_
+    <br>[Humanizing Your Documentation](https://frontendconf.ch/speakers/carolyn-stransky)
 
     * **Write the Docs Prague** in Prague, Czech Republic 🇨🇿 _(Sep 9-11, 2018)_
-    <br>_Attending_
+    <br>[A11y-Friendly Documentation](http://www.writethedocs.org/conf/prague/2018/speakers/)
 
     * **RuhrJS** in Bochum, Germany 🇩🇪 _(Oct 13-14, 2018)_
     <br>[Humanizing Your Documentation](https://www.ruhrjs.de/speakers/carolyn-stransky)
+
+    * **GraphQL Finland** in Helsinki, Finland 🇫🇮 _(Oct 18-19, 2018)_
+    <br>[Speaking, but topic is still TBA 😉](https://graphql-finland.fi/speakers/#carolyn-stransky)
+
+    * **Accessibility Club Conference** in Berlin, Germany 🇩🇪 _(Nov 5, 2018)_
+    <br>_Attending_ [Join me!](https://accessibility-club.org/)
 
     💖 Want me to speak at your event? Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.
 

@@ -59,24 +59,27 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 
 * #### Upcoming Events
 
-    * **Frontend Conference** in Zurich, Switzerland 🇨🇭 _(Aug 30-31, 2018)_
-    <br>[Humanizing Your Documentation](https://frontendconf.ch/speakers/carolyn-stransky)
-
-    * **Write the Docs Prague** in Prague, Czech Republic 🇨🇿 _(Sep 9-11, 2018)_
-    <br>[A11y-Friendly Documentation](http://www.writethedocs.org/conf/prague/2018/speakers/)
-
     * **RuhrJS** in Bochum, Germany 🇩🇪 _(Oct 13-14, 2018)_
     <br>[Humanizing Your Documentation](https://www.ruhrjs.de/speakers/carolyn-stransky)
 
     * **GraphQL Finland** in Helsinki, Finland 🇫🇮 _(Oct 18-19, 2018)_
-    <br>[Speaking, but topic is still TBA 😉](https://graphql-finland.fi/speakers/#carolyn-stransky)
+    <br>[Topic is still TBA 😉](https://graphql-finland.fi/speakers/#carolyn-stransky)
 
     * **Accessibility Club Conference** in Berlin, Germany 🇩🇪 _(Nov 5, 2018)_
-    <br>_Attending_ [Join me!](https://accessibility-club.org/)
+    <br>_Attending_
+
+    * **DACHFest** in Munich, Germany 🇩🇪 _(Nov 10-11, 2018)_
+    <br>[A11y-Friendly Documentation](https://dachfest.com/)
+
+    * **HalfStack** in London, UK 🇬🇧 _(Nov 16, 2018)_
+    <br>[The Most Important UI: You](http://halfstackconf.com/#sessions)
 
     💖 Want me to speak at your event? Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.
 
 * #### Past Talks
+    * [**A11y-Friendly Documentation**](https://github.com/carolstran/tech-talks/blob/master/abstracts/A11y-Friendly-Docs.md) <br>
+    A full-length talk focused on assistive technology and how to build accessible documentation
+<br><br>
     * [**Humanizing Your Documentation**](https://github.com/carolstran/tech-talks/blob/master/abstracts/Humanizing-Your-Docs.md) <br>
     A full and lightning talk focused on how to create approachable, inclusive and use case-driven documentation
 <br><br>

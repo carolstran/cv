@@ -5,12 +5,13 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 [@carolstran](https://twitter.com/carolstran) / [carolynstransky@gmail.com](mailto:carolynstransky@gmail.com) / [GitHub](https://www.github.com/carolstran/) / [LinkedIn](https://www.linkedin.com/in/carolstran/)
 
 **You can find a [single-page PDF](https://github.com/carolstran/cv/blob/master/one-pager/StranskyCV.pdf) version of my CV within this repo.** <br> But if you want a more detailed overview, you're in the right place!
-<br><br>
 
 ## 👩🏻‍💻 Industry Experience
 
 * **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Present)_ <br>
-TBD!
+Professional chauffeur service available in over 300 cities worldwide
+    * Building out the B2B corporate portal in a cross-functional team
+    * Involved with diversity, frontend and open source guilds
 <br><br>
 * **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
 API-first infrastructure to create, manage and distribute content
@@ -38,7 +39,6 @@ Blockchain technology that empowers creators to truly own digital art
     * Highlights:
         * Rolled out [BigchainDB](https://www.bigchaindb.com/) and [WhereOnThe.Net](https://www.whereonthe.net/)
         * [Outreach material for the ascribe platform](https://www.linkedin.com/in/carolstran/detail/treasury/position:763046435/)
-<br><br>
 
 ## 💻 Technologies I Work With
 
@@ -53,20 +53,16 @@ Node.js, Express.js, PostgreSQL
 
 * **Tools and IDEs**<br>
 Git, GitHub, Atom, Contentful, Adobe Creative Suite
-<br><br>
 
-## 🗯 Speaking
+## 🎤 Speaking
 
 * #### Upcoming Events
 
-    * **RuhrJS** in Bochum, Germany 🇩🇪 _(Oct 13-14, 2018)_
-    <br>[Humanizing Your Documentation](https://www.ruhrjs.de/speakers/carolyn-stransky)
-
-    * **GraphQL Finland** in Helsinki, Finland 🇫🇮 _(Oct 18-19, 2018)_
-    <br>[Topic is still TBA 😉](https://graphql-finland.fi/speakers/#carolyn-stransky)
+    * **ReactJS Girls Meetup** in Berlin, Germany 🇩🇪 _(Oct 29, 2018)_
+    <br>[Life is hard and so is learning GraphQL](https://www.meetup.com/ReactJS-Girls-Berlin/events/255576130/)
 
     * **Accessibility Club Conference** in Berlin, Germany 🇩🇪 _(Nov 5, 2018)_
-    <br>_Attending_
+    <br>[_Volunteering_](https://accessibility-club.org/)
 
     * **DACHFest** in Munich, Germany 🇩🇪 _(Nov 10-11, 2018)_
     <br>[A11y-Friendly Documentation](https://dachfest.com/)
@@ -74,38 +70,34 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
     * **HalfStack** in London, UK 🇬🇧 _(Nov 16, 2018)_
     <br>[The Most Important UI: You](http://halfstackconf.com/#sessions)
 
-    💖 Want me to speak at your event? Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.
+    * **React Day Berlin** in Berlin, Germany 🇩🇪 _(Nov 30, 2018)_
+    <br>[M.C. - Master of Ceremonies](https://reactday.berlin/#speakers)
 
-* #### Past Talks
-    * [**A11y-Friendly Documentation**](https://github.com/carolstran/tech-talks/blob/master/abstracts/A11y-Friendly-Docs.md) <br>
-    A full-length talk focused on assistive technology and how to build accessible documentation
-<br><br>
-    * [**Humanizing Your Documentation**](https://github.com/carolstran/tech-talks/blob/master/abstracts/Humanizing-Your-Docs.md) <br>
-    A full and lightning talk focused on how to create approachable, inclusive and use case-driven documentation
-<br><br>
-    * [**Self-care in Tech** ⚡️](https://github.com/carolstran/tech-talks/blob/master/abstracts/Selfcare-In-Tech.md) <br>
-    A lightning talk about the lack of self-care in the tech industry and how you can build your own self-care toolkit
-<br><br>
+    * **You Got This Conf** in London, UK 🇬🇧 _(Jan 19, 2019)_
+    <br>[_Attending_](http://yougotthis.io/)
+
+* #### Want me to speak at your event?
+    💖 Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.
 
 ## 🌐  On The Side
 
 * **Organizer** @ [BerlinJS](https://berlinjs.org/) _(May 2018 - Present)_<br>
 A user group focused on JavaScript and related topics that has been running for nearly 10 years
-    * TBD!
+    * Selecting speakers and scheduling events
+    * Developing a diverse community and enforcing the code of conduct
 <br><br>
 * **Teaching HTML & CSS** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Sep 2017 - Present)_<br>
 Non-profit digital school for tech-interested newcomers applying for asylum in Germany
     * Planning lessons and leading classes
     * Writing engaging, beginner-friendly tutorials
 <br><br>
-* **Contributing Editor** @ [FLURT Magazine](http://www.flurtmag.com/) _(Mar 2016 - Present)_ <br>
+* **Contributing Editor** @ [FLURT Magazine](http://www.flurtmag.com/) _(Mar 2016 - Sep 2018)_ <br>
 Magazine for socially conscious young people who want to create their own media
     * Writing articles for print and [web](http://www.flurtmag.com/author/carolyn-stransky/)
     * Highlights:
         * [Hacktivists Connect Refugees with Work Opportunities](http://www.flurtmag.com/2018/02/hacktivists-connect-refugees-with-work-opportunities/)
         * [What to Do if You Get Doxed](http://www.flurtmag.com/2018/01/what-to-do-if-you-get-doxed/)
         * [High Tech Sex](https://medium.com/@carolstran/high-tech-sex-46b44c581129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BSSv4DUfPTnSJsQJRoRhdjQ%3D%3D)
-<br><br>
 
 ## 👩🏻‍🎓 Education
 

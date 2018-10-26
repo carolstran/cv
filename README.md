@@ -5,6 +5,7 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 [@carolstran](https://twitter.com/carolstran) / [carolynstransky@gmail.com](mailto:carolynstransky@gmail.com) / [GitHub](https://www.github.com/carolstran/) / [LinkedIn](https://www.linkedin.com/in/carolstran/)
 
 **You can find a [single-page PDF](https://github.com/carolstran/cv/blob/master/one-pager/StranskyCV.pdf) version of my CV within this repo.** <br> But if you want a more detailed overview, you're in the right place!
+<br><br>
 
 ## 👩🏻‍💻 Industry Experience
 
@@ -39,6 +40,7 @@ Blockchain technology that empowers creators to truly own digital art
     * Highlights:
         * Rolled out [BigchainDB](https://www.bigchaindb.com/) and [WhereOnThe.Net](https://www.whereonthe.net/)
         * [Outreach material for the ascribe platform](https://www.linkedin.com/in/carolstran/detail/treasury/position:763046435/)
+<br><br>
 
 ## 💻 Technologies I Work With
 
@@ -53,6 +55,7 @@ Node.js, Express.js, PostgreSQL
 
 * **Tools and IDEs**<br>
 Git, GitHub, Atom, Contentful, Adobe Creative Suite
+<br><br>
 
 ## 🎤 Speaking
 
@@ -78,6 +81,7 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 
 * #### Want me to speak at your event?
     💖 Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.
+<br><br>
 
 ## 🌐  On The Side
 
@@ -98,6 +102,7 @@ Magazine for socially conscious young people who want to create their own media
         * [Hacktivists Connect Refugees with Work Opportunities](http://www.flurtmag.com/2018/02/hacktivists-connect-refugees-with-work-opportunities/)
         * [What to Do if You Get Doxed](http://www.flurtmag.com/2018/01/what-to-do-if-you-get-doxed/)
         * [High Tech Sex](https://medium.com/@carolstran/high-tech-sex-46b44c581129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BSSv4DUfPTnSJsQJRoRhdjQ%3D%3D)
+<br><br>
 
 ## 👩🏻‍🎓 Education
 

@@ -61,9 +61,6 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 
 * #### Upcoming Events
 
-    * **ReactJS Girls Meetup** in Berlin, Germany 🇩🇪 _(Oct 29, 2018)_
-    <br>[Life is hard and so is learning GraphQL](https://www.meetup.com/ReactJS-Girls-Berlin/events/255576130/)
-
     * **Accessibility Club Conference** in Berlin, Germany 🇩🇪 _(Nov 5, 2018)_
     <br>[_Volunteering_](https://accessibility-club.org/)
 

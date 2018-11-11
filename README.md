@@ -61,12 +61,6 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 
 * #### Upcoming Events
 
-    * **Accessibility Club Conference** in Berlin, Germany 🇩🇪 _(Nov 5, 2018)_
-    <br>[_Volunteering_](https://accessibility-club.org/)
-
-    * **DACHFest** in Munich, Germany 🇩🇪 _(Nov 10-11, 2018)_
-    <br>[A11y-Friendly Documentation](https://dachfest.com/)
-
     * **HalfStack** in London, UK 🇬🇧 _(Nov 16, 2018)_
     <br>[The Most Important UI: You](http://halfstackconf.com/#sessions)
 

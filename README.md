@@ -7,7 +7,7 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 **You can find a [single-page PDF](https://github.com/carolstran/cv/blob/master/one-pager/StranskyCV.pdf) version of my CV within this repo.** <br> But if you want a more detailed overview, you're in the right place!
 <br><br>
 
-## 👩🏻‍💻 Industry Experience
+## 👩‍💻 Industry Experience
 
 * **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Present)_ <br>
 Professional chauffeur service available in over 300 cities worldwide
@@ -61,14 +61,14 @@ Git, GitHub, Atom, Contentful, Adobe Creative Suite
 
 * #### Upcoming Events
 
-    * **HalfStack** in London, UK 🇬🇧 _(Nov 16, 2018)_
-    <br>[The Most Important UI: You](http://halfstackconf.com/#sessions)
-
     * **React Day Berlin** in Berlin, Germany 🇩🇪 _(Nov 30, 2018)_
     <br>[M.C. - Master of Ceremonies](https://reactday.berlin/#speakers)
 
     * **You Got This Conf** in London, UK 🇬🇧 _(Jan 19, 2019)_
     <br>[_Attending_](http://yougotthis.io/)
+
+    * **React Finland** in Helsinki, Finland 🇫🇮 _(Apr 24-26, 2019)_
+    <br>[_Speaking_](https://react-finland.fi/#speakers)
 
 * #### Want me to speak at your event?
     💖 Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.
@@ -95,7 +95,7 @@ Magazine for socially conscious young people who want to create their own media
         * [High Tech Sex](https://medium.com/@carolstran/high-tech-sex-46b44c581129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BSSv4DUfPTnSJsQJRoRhdjQ%3D%3D)
 <br><br>
 
-## 👩🏻‍🎓 Education
+## 👩‍🎓 Education
 
 * **Bachelor of Arts** in Journalism and Media Studies<br>
 [Beloit College](https://www.beloit.edu/search/?q=carolyn+stransky&x=0&y=0&as_sitesearch=https%3A%2F%2Fwww.beloit.edu%2F) - Beloit, Wisconsin, USA _(2011 - 2015)_

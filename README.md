@@ -24,16 +24,16 @@ _(und ja ich lerne deutsch)_ 😉 🥨
   Online B2B marketplace and iOS/Android point of sale app for the home and living wholesale industry
   - Produced and reviewed content for all external communication
   - Highlights:
-  * [Bonagora Marketplace Breakdown](https://www.linkedin.com/in/carolstran/detail/treasury/position:802015431/)
-  * [Take Initiative, Change the Industry](https://medium.com/@bonagora/take-initiative-change-the-industry-abccaf5f9a64)
-    <br><br>
+    - [Bonagora Marketplace Breakdown](https://www.linkedin.com/in/carolstran/detail/treasury/position:802015431/)
+    - [Take Initiative, Change the Industry](https://medium.com/@bonagora/take-initiative-change-the-industry-abccaf5f9a64)
+      <br><br>
 - **Digital Marketing Intern** @ [ascribe.io](https://www.ascribe.io/) _(Nov 2015 - Mar 2016)_ <br>
   Blockchain technology that empowers creators to truly own digital art
   - Assisted with the company's communication, marketing and design efforts
   - Highlights:
-  * Rolled out [BigchainDB](https://www.bigchaindb.com/) and [WhereOnThe.Net](https://www.whereonthe.net/)
-  * [Outreach material for the ascribe platform](https://www.linkedin.com/in/carolstran/detail/treasury/position:763046435/)
-    <br><br>
+    - Rolled out [BigchainDB](https://www.bigchaindb.com/) and [WhereOnThe.Net](https://www.whereonthe.net/)
+    - [Outreach material for the ascribe platform](https://www.linkedin.com/in/carolstran/detail/treasury/position:763046435/)
+      <br><br>
 
 ## 💻 Technologies I Work With
 
@@ -83,10 +83,10 @@ _(und ja ich lerne deutsch)_ 😉 🥨
   Magazine for socially conscious young people who want to create their own media
   - Writing articles for print and [web](http://www.flurtmag.com/author/carolyn-stransky/)
   - Highlights:
-  * [Hacktivists Connect Refugees with Work Opportunities](http://www.flurtmag.com/2018/02/hacktivists-connect-refugees-with-work-opportunities/)
-  * [What to Do if You Get Doxed](http://www.flurtmag.com/2018/01/what-to-do-if-you-get-doxed/)
-  * [High Tech Sex](https://medium.com/@carolstran/high-tech-sex-46b44c581129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BSSv4DUfPTnSJsQJRoRhdjQ%3D%3D)
-    <br><br>
+    - [Hacktivists Connect Refugees with Work Opportunities](http://www.flurtmag.com/2018/02/hacktivists-connect-refugees-with-work-opportunities/)
+    - [What to Do if You Get Doxed](http://www.flurtmag.com/2018/01/what-to-do-if-you-get-doxed/)
+    - [High Tech Sex](https://medium.com/@carolstran/high-tech-sex-46b44c581129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BSSv4DUfPTnSJsQJRoRhdjQ%3D%3D)
+      <br><br>
 
 ## 👩🏻‍🎓 Education
 

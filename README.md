@@ -6,7 +6,7 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 [@carolstran](https://twitter.com/carolstran) / [carolynstransky@gmail.com](mailto:carolynstransky@gmail.com) / [GitHub](https://www.github.com/carolstran/) / [LinkedIn](https://www.linkedin.com/in/carolstran/)
 
 <!-- **You can find a [single-page PDF](https://github.com/carolstran/cv/blob/master/one-pager/StranskyCV.pdf) version of my CV within this repo.** <br> But if you want a more detailed overview, you're in the right place! -->
-<br><br>
+<!-- <br><br> -->
 
 ## 👩🏻‍💻 Industry Experience
 

@@ -35,7 +35,7 @@ _(und ja ich lerne deutsch)_ 😉 🥨
     - [Outreach material for the ascribe platform](https://www.linkedin.com/in/carolstran/detail/treasury/position:763046435/)
       <br><br>
 
-## 💻 Technologies I Work With
+<!-- ## 💻 Technologies I Work With
 
 - **Frontend**<br>
   HTML5, CSS3, JavaScript ES5/6, Handlebars.js
@@ -48,14 +48,17 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 
 - **Tools and IDEs**<br>
   Git, GitHub, Atom, Contentful, Adobe Creative Suite
-  <br><br>
+  <br><br> -->
 
 ## 🎤 Speaking
 
 - #### Upcoming Events
 
-  - **You Got This Conf** in London, UK 🇬🇧 _(Jan 19, 2019)_
-    <br>[_Attending_](http://yougotthis.io/)
+  - **Wellness.js Meetup** in Berlin, Germany 🇩🇪 _(Feb 19, 2019)_
+    <br>[_Organizing_](https://www.meetup.com/ReactJS-Girls-Berlin/events/258491757/)
+
+  - **GraphQL Berlin Meetup** in Berlin, Germany 🇩🇪 _(Feb 27, 2019)_
+    <br>[_Speaking_](https://www.meetup.com/graphql-berlin/events/258589885)
 
   - **React Finland** in Helsinki, Finland 🇫🇮 _(Apr 24-26, 2019)_
     <br>[_Speaking_](https://react-finland.fi/#speakers)

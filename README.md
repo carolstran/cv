@@ -12,7 +12,7 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 
 - **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Present)_ <br>
   Professional chauffeur service available in over 300 cities worldwide
-  - Building out the B2B corporate portal in a cross-functional team
+  - Building out the new B2C website in a cross-functional team
   - Involved with diversity, frontend and open source guilds
     <br><br>
 - **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
@@ -54,14 +54,11 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 
 - #### Upcoming Events
 
-  - **Wellness.js Meetup** in Berlin, Germany 🇩🇪 _(Feb 19, 2019)_
-    <br>[_Organizing_](https://www.meetup.com/ReactJS-Girls-Berlin/events/258491757/)
-
-  - **GraphQL Berlin Meetup** in Berlin, Germany 🇩🇪 _(Feb 27, 2019)_
-    <br>[_Speaking_](https://www.meetup.com/graphql-berlin/events/258589885)
-
   - **React Finland** in Helsinki, Finland 🇫🇮 _(Apr 24-26, 2019)_
     <br>[_Speaking_](https://react-finland.fi/#speakers)
+
+  - **Beyond Tellerrand** in Düsseldorf, Germany 🇩🇪 _(May 13-15, 2019)_
+    <br>[_Speaking_](https://beyondtellerrand.com/events/duesseldorf-2019/speakers/carolyn-stransky)
 
   - **React India** in Goa, India 🇮🇳 _(Sep 26-28, 2019)_
     <br>[_Speaking_](https://www.reactindia.io/)
@@ -82,12 +79,12 @@ _(und ja ich lerne deutsch)_ 😉 🥨
   - Working 1:1 with a ReDI student to help them transition into a tech career
   - Previously: Teaching HTML & CSS (Sep 2017 - Dec 2018)
     <br><br>
-- **Contributing Editor** @ [FLURT Magazine](http://www.flurtmag.com/) _(Mar 2016 - Sep 2018)_ <br>
+- **Contributing Editor** @ [FLURT Magazine](https://flurt-archives.netlify.com/) _(Mar 2016 - Sep 2018)_ <br>
   Magazine for socially conscious young people who want to create their own media
   - Writing articles for print and [web](http://www.flurtmag.com/author/carolyn-stransky/)
   - Highlights:
-    - [Hacktivists Connect Refugees with Work Opportunities](http://www.flurtmag.com/2018/02/hacktivists-connect-refugees-with-work-opportunities/)
-    - [What to Do if You Get Doxed](http://www.flurtmag.com/2018/01/what-to-do-if-you-get-doxed/)
+    - [Hacktivists Connect Refugees with Work Opportunities](https://flurt-archives.netlify.com/posts/hacktivists-connect-refugees-with-work-opportunities/)
+    - [What to Do if You Get Doxed](https://flurt-archives.netlify.com/posts/what-to-do-if-you-get-doxed/)
     - [High Tech Sex](https://medium.com/@carolstran/high-tech-sex-46b44c581129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BSSv4DUfPTnSJsQJRoRhdjQ%3D%3D)
       <br><br>
 

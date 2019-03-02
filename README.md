@@ -81,7 +81,7 @@ _(und ja ich lerne deutsch)_ 😉 🥨
     <br><br>
 - **Contributing Editor** @ [FLURT Magazine](https://flurt-archives.netlify.com/) _(Mar 2016 - Sep 2018)_ <br>
   Magazine for socially conscious young people who want to create their own media
-  - Writing articles for print and [web](http://www.flurtmag.com/author/carolyn-stransky/)
+  - Writing articles for print and web
   - Highlights:
     - [Hacktivists Connect Refugees with Work Opportunities](https://flurt-archives.netlify.com/posts/hacktivists-connect-refugees-with-work-opportunities/)
     - [What to Do if You Get Doxed](https://flurt-archives.netlify.com/posts/what-to-do-if-you-get-doxed/)

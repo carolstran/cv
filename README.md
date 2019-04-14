@@ -12,8 +12,9 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 
 - **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Present)_ <br>
   Professional chauffeur service available in over 300 cities worldwide
-  - Building out the new B2C website in a cross-functional team
-  - Involved with diversity, frontend and open source guilds
+  - Building out the B2C web products in a cross-functional team
+  - Leading initiatives around web accessibility
+  - Reviewing technical documentation for open source projects
     <br><br>
 - **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
   API-first infrastructure to create, manage and distribute content
@@ -35,20 +36,20 @@ _(und ja ich lerne deutsch)_ 😉 🥨
     - [Outreach material for the ascribe platform](https://www.linkedin.com/in/carolstran/detail/treasury/position:763046435/)
       <br><br>
 
-<!-- ## 💻 Technologies I Work With
+## 💻 Technologies I Work With
 
 - **Frontend**<br>
-  HTML5, CSS3, JavaScript ES5/6, Handlebars.js
+  HTML, CSS (Flexbox, Grid), JavaScript ES6
 
 - **Libraries and Frameworks**<br>
-  React, jQuery, AngularJS
+  React, Redux
 
 - **Backend and Databases**<br>
-  Node.js, Express.js, PostgreSQL
+  Node.js, Express.js, GraphQL, MongoDB, PostgreSQL
 
 - **Tools and IDEs**<br>
-  Git, GitHub, Atom, Contentful, Adobe Creative Suite
-  <br><br> -->
+  Git, GitHub, Flow, TypeScript, Atom, Contentful, Adobe Creative Suite
+  <br><br>
 
 ## 🎤 Speaking
 
@@ -56,6 +57,9 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 
   - **React Finland** in Helsinki, Finland 🇫🇮 _(Apr 24-26, 2019)_
     <br>[_Speaking_](https://react-finland.fi/#speakers)
+
+  - **ReactJS Girls Conference** in London, UK ْ🇬🇧 _(Apr 24-26, 2019)_
+    <br>[_Speaking_](https://reactjsgirls.com/#speakers)
 
   - **Beyond Tellerrand** in Düsseldorf, Germany 🇩🇪 _(May 13-15, 2019)_
     <br>[_Speaking_](https://beyondtellerrand.com/events/duesseldorf-2019/speakers/carolyn-stransky)
@@ -69,19 +73,23 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 
 ## 🌐 On The Side
 
-- **Organizer** @ [BerlinJS](https://berlinjs.org/) _(May 2018 - Present)_<br>
-  A user group focused on JavaScript and related topics that has been running for nearly 10 years
-  - Selecting speakers and scheduling events
-  - Developing a diverse community and enforcing the code of conduct
+- **Tech Speaker** @ [Mozilla](https://events.mozilla.org/techspeakers) _(Nov 2018 - Present)_<br>
+  A program bringing together contributors who are already speaking to technical audiences
     <br><br>
-- **Mentor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Sep 2017 - Present)_<br>
+- **Co-Organizer** @ [BerlinJS](https://berlinjs.org/) _(May 2018 - Present)_<br>
+  A user group focused on JavaScript that has been running for nearly 10 years
+  - Selecting speakers and scheduling events
+  - Fostering an inclusive community and enforcing the code of conduct
+    <br><br>
+- **HTML & CSS Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Sep 2017 - Mar 2019)_<br>
   Non-profit digital school for tech-interested newcomers applying for asylum in Germany
-  - Working 1:1 with a ReDI student to help them transition into a tech career
-  - Previously: Teaching HTML & CSS (Sep 2017 - Dec 2018)
+  - Built and continuously developed the course curriculum with a team of four instructors
+  - Led classes to improve student comprehension of HTML, CSS and general web design principles
+  - Mentored students through presentations and job search
     <br><br>
 - **Contributing Editor** @ [FLURT Magazine](https://flurt-archives.netlify.com/) _(Mar 2016 - Sep 2018)_ <br>
   Magazine for socially conscious young people who want to create their own media
-  - Writing articles for print and web
+  - Wrote over 20 articles for print and web
   - Highlights:
     - [Hacktivists Connect Refugees with Work Opportunities](https://flurt-archives.netlify.com/posts/hacktivists-connect-refugees-with-work-opportunities/)
     - [What to Do if You Get Doxed](https://flurt-archives.netlify.com/posts/what-to-do-if-you-get-doxed/)

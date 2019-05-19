@@ -55,14 +55,14 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 
 - #### Upcoming Events
 
-  - **React Finland** in Helsinki, Finland 🇫🇮 _(Apr 24-26, 2019)_
-    <br>[_Speaking_](https://react-finland.fi/#speakers)
+  - **EnthusiastiCon** in Berlin, Germany 🇩🇪 _(May 25, 2019)_
+    <br>[_Speaking_](https://www.enthusiasticon.de/speakers/)
 
-  - **ReactJS Girls Conference** in London, UK ْ🇬🇧 _(Apr 24-26, 2019)_
-    <br>[_Speaking_](https://reactjsgirls.com/#speakers)
+  - **CSSConf EU** in Berlin, Germany 🇩🇪 _(May 31, 2019)_
+    <br>[_Speaking_](https://2019.cssconf.eu/community-lounge/stories-of-gratitude/)
 
-  - **Beyond Tellerrand** in Düsseldorf, Germany 🇩🇪 _(May 13-15, 2019)_
-    <br>[_Speaking_](https://beyondtellerrand.com/events/duesseldorf-2019/speakers/carolyn-stransky)
+  - **JSConf EU** in Berlin, Germany 🇩🇪 _(Jun 1-2, 2019)_
+    <br>[_Speaking_](https://2019.jsconf.eu/schedule/timetable.html)
 
   - **React India** in Goa, India 🇮🇳 _(Sep 26-28, 2019)_
     <br>[_Speaking_](https://www.reactindia.io/)

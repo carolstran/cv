@@ -55,15 +55,6 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 
 - #### Upcoming Events
 
-  - **EnthusiastiCon** in Berlin, Germany 🇩🇪 _(May 25, 2019)_
-    <br>[_Speaking_](https://www.enthusiasticon.de/speakers/)
-
-  - **CSSConf EU** in Berlin, Germany 🇩🇪 _(May 31, 2019)_
-    <br>[_Speaking_](https://2019.cssconf.eu/community-lounge/stories-of-gratitude/)
-
-  - **JSConf EU** in Berlin, Germany 🇩🇪 _(Jun 1-2, 2019)_
-    <br>[_Speaking_](https://2019.jsconf.eu/schedule/timetable.html)
-
   - **React India** in Goa, India 🇮🇳 _(Sep 26-28, 2019)_
     <br>[_Speaking_](https://www.reactindia.io/)
 

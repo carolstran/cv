@@ -55,6 +55,9 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 
 - #### Upcoming Events
 
+  - **Front Conference** in Zurich, Switzerland 🇨🇭 _(Aug 29-30, 2019)_
+    <br>[_Master of Ceremonies_](https://frontconference.com/speakers)
+
   - **React India** in Goa, India 🇮🇳 _(Sep 26-28, 2019)_
     <br>[_Speaking_](https://www.reactindia.io/)
 

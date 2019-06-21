@@ -8,6 +8,10 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 <!-- **You can find a [single-page PDF](https://github.com/carolstran/cv/blob/master/one-pager/StranskyCV.pdf) version of my CV within this repo.** <br> But if you want a more detailed overview, you're in the right place! -->
 <!-- <br><br> -->
 
+## 📡 Objective
+
+As a writer and a web developer, my focus is to display and communicate information. I know how to present data that is clear and accurate, as well as how to program that material into effective, aesthetically pleasing digital interfaces. Journalism and computer science represent a new form of collaboration, and I’m excited to be working at the intersection.
+
 ## 👩‍💻 Industry Experience
 
 - **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Present)_ <br>
@@ -55,8 +59,14 @@ _(und ja ich lerne deutsch)_ 😉 🥨
 
 - #### Upcoming Events
 
+  - **New Devs on the Block** in Nürnberg, Germany 🇩🇪 _(Jul 29-30, 2019)_
+    <br>[_Coaching and speaking_](https://newdevs.org/)
+
   - **Front Conference** in Zurich, Switzerland 🇨🇭 _(Aug 29-30, 2019)_
     <br>[_Master of Ceremonies_](https://frontconference.com/speakers)
+
+  - **GraphQL Day Bodensee** in Konstanz, Germany 🇩🇪 _(Sep 6, 2019)_
+    <br>[_Speaking_](https://www.graphqlday.org/bodensee/)
 
   - **React India** in Goa, India 🇮🇳 _(Sep 26-28, 2019)_
     <br>[_Speaking_](https://www.reactindia.io/)
@@ -75,7 +85,7 @@ _(und ja ich lerne deutsch)_ 😉 🥨
   - Selecting speakers and scheduling events
   - Fostering an inclusive community and enforcing the code of conduct
     <br><br>
-- **HTML & CSS Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Sep 2017 - Mar 2019)_<br>
+- **HTML & CSS Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Jun 2019)_<br>
   Non-profit digital school for tech-interested newcomers applying for asylum in Germany
   - Built and continuously developed the course curriculum with a team of four instructors
   - Led classes to improve student comprehension of HTML, CSS and general web design principles

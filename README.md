@@ -1,6 +1,6 @@
-# Carolyn Stransky
+# Carolyn Stransky [she/her]
 
-_Journalist and JavaScript developer based in Berlin, Germany_ <br>
+_Software developer and journalist based in Berlin, Germany_ <br>
 _(und ja ich lerne deutsch)_ 😉 🥨
 
 [@carolstran](https://twitter.com/carolstran) / [carolynstransky@gmail.com](mailto:carolynstransky@gmail.com) / [GitHub](https://www.github.com/carolstran/) / [LinkedIn](https://www.linkedin.com/in/carolstran/)

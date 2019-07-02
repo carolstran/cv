@@ -79,9 +79,10 @@ As a writer and a web developer, my focus is to display and communicate informat
 
 - **Tech Speaker** @ [Mozilla](https://events.mozilla.org/techspeakers) _(Nov 2018 - Present)_<br>
   A program bringing together contributors who are already speaking to technical audiences
-    <br><br>
-- **Co-Organizer** @ [BerlinJS](https://berlinjs.org/) _(May 2018 - Present)_<br>
-  A user group focused on JavaScript that has been running for nearly 10 years
+  <br><br>
+- **Co-Organizer** @ [BerlinJS](https://berlinjs.org/) and [QueerJS](https://queerjs.com/) _(May 2018 - Present)_<br>
+  🐻 BerlinJS is a JavaScript-focused user group that has been running for nearly 10 years<br>
+  🏳️‍🌈 QueerJS is a meetup for everyone where queer speakers take the stage
   - Selecting speakers and scheduling events
   - Fostering an inclusive community and enforcing the code of conduct
     <br><br>

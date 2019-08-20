@@ -18,12 +18,12 @@ As a writer and a web developer, my focus is to display and communicate informat
   Professional chauffeur service available in over 300 cities worldwide
   - Building out the B2C web products in a cross-functional team
   - Leading initiatives around web accessibility
-  - Reviewing technical documentation for open source projects
+  - Reviewing technical documentation for [open source projects](https://github.com/blacklane/)
     <br><br>
 - **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
   API-first infrastructure to create, manage and distribute content
-  - Ownership of Contentful's technical blog
-  - Assistance with developer experience documentation, information architecture and UX writing for the web app
+  - Ownership of [Contentful's technical blog](https://www.contentful.com/blog/)
+  - Assistance with [developer experience documentation](https://www.contentful.com/developers/docs/), information architecture and UX writing for the web app
     <br><br>
 - **Communications Manager** @ [Bonagora](https://medium.com/@bonagora/bonagora-is-closing-d31678e74b4e) _(Apr 2016 - Mar 2017)_ <br>
   Online B2B marketplace and iOS/Android point of sale app for the home and living wholesale industry
@@ -59,17 +59,29 @@ As a writer and a web developer, my focus is to display and communicate informat
 
 - #### Upcoming Events
 
-  - **New Devs on the Block** in Nürnberg, Germany 🇩🇪 _(Jul 29-30, 2019)_
-    <br>[_Coaching and speaking_](https://newdevs.org/)
-
   - **Front Conference** in Zurich, Switzerland 🇨🇭 _(Aug 29-30, 2019)_
     <br>[_Master of Ceremonies_](https://frontconference.com/speakers)
 
   - **GraphQL Day Bodensee** in Konstanz, Germany 🇩🇪 _(Sep 6, 2019)_
     <br>[_Speaking_](https://www.graphqlday.org/bodensee/)
+    
+  - **Write the Docs** in Prague, Czech Republic 🇨🇿 _(Sep 16-17, 2019)_
+    <br>[_Master of Ceremonies_](https://www.writethedocs.org/conf/prague/2019/team/)
 
   - **React India** in Goa, India 🇮🇳 _(Sep 26-28, 2019)_
     <br>[_Speaking_](https://www.reactindia.io/)
+    
+  - **MadJS Meetup** in Madison, WI, USA 🇺🇸 _(Dec 2, 2019)_
+    <br>[_Speaking_](https://www.meetup.com/MadisonJS/events/wqxgqlyzqbmb/)
+    
+  - **SeattleJS Meetup** in Seattle, WA, USA 🇺🇸 _(Dec 12, 2019)_
+    <br>[_Speaking_](https://www.meetup.com/seattlejs/events/clmbzqyzqbqb/)
+    
+  - **Front End PDX Meetup** in Portland, OR, USA 🇺🇸 _(Dec 17, 2019)_
+    <br>[_Speaking_](https://www.meetup.com/Front-End-PDX/events/jvklwqyzqbwb/)
+    
+  - **JS Kongress** in Munich, Germany 🇩🇪 _(Apr 15-16, 2020)_
+    <br>[_Keynoting_](https://js-kongress.com/speakers/carolyn-stransky/)
 
 - #### Want me to speak at your event?
   💖 Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.

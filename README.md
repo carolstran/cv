@@ -71,6 +71,9 @@ As a writer and a web developer, my focus is to display and communicate informat
   - **React India** in Goa, India 🇮🇳 _(Sep 26-28, 2019)_
     <br>[_Speaking_](https://www.reactindia.io/)
     
+  - **Trondheim Developer Conference** in Trondheim, Norway 🇳🇴 _(Oct 28, 2019)_
+    <br>[_Speaking_](https://2019.trondheimdc.no/program)
+    
   - **MadJS Meetup** in Madison, WI, USA 🇺🇸 _(Dec 2, 2019)_
     <br>[_Speaking_](https://www.meetup.com/MadisonJS/events/wqxgqlyzqbmb/)
     

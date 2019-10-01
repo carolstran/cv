@@ -14,7 +14,10 @@ As a writer and a web developer, my focus is to display and communicate informat
 
 ## 👩‍💻 Industry Experience
 
-- **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Present)_ <br>
+- **Open Source Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Present)_ <br>
+  Machine learning company building a fake version of the internet
+    <br><br>
+- **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
   Professional chauffeur service available in over 300 cities worldwide
   - Building out the B2C web products in a cross-functional team
   - Leading initiatives around web accessibility

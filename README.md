@@ -58,15 +58,6 @@ As a writer and a web developer, my focus is to display and communicate informat
 ## 🎤 Speaking
 
 - #### Upcoming Events
-
-  - **GraphQL Day Bodensee** in Konstanz, Germany 🇩🇪 _(Sep 6, 2019)_
-    <br>[_Speaking_](https://www.graphqlday.org/bodensee/)
-    
-  - **Write the Docs** in Prague, Czech Republic 🇨🇿 _(Sep 16-17, 2019)_
-    <br>[_Master of Ceremonies_](https://www.writethedocs.org/conf/prague/2019/team/)
-
-  - **React India** in Goa, India 🇮🇳 _(Sep 26-28, 2019)_
-    <br>[_Speaking_](https://www.reactindia.io/)
     
   - **localhost** in Düsseldorf, Germany 🇩🇪 _(Oct 12, 2019)_
     <br>[_Speaking_](https://localhost.engineering/#speakers)

@@ -62,9 +62,6 @@ As a writer and a web developer, my focus is to display and communicate informat
 
 - #### Upcoming Events
     
-  - **localhost** in Düsseldorf, Germany 🇩🇪 _(Oct 12, 2019)_
-    <br>[_Speaking_](https://localhost.engineering/#speakers)
-    
   - **Trondheim Developer Conference** in Trondheim, Norway 🇳🇴 _(Oct 28, 2019)_
     <br>[_Speaking_](https://2019.trondheimdc.no/program)
     

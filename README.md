@@ -61,19 +61,10 @@ As a writer and a web developer, my focus is to display and communicate informat
 ## 🎤 Speaking
 
 - #### Upcoming Events
-    
-  - **Trondheim Developer Conference** in Trondheim, Norway 🇳🇴 _(Oct 28, 2019)_
-    <br>[_Speaking_](https://2019.trondheimdc.no/program)
-    
-  - **MadJS Meetup** in Madison, WI, USA 🇺🇸 _(Dec 2, 2019)_
-    <br>[_Speaking_](https://www.meetup.com/MadisonJS/events/wqxgqlyzqbmb/)
-    
-  - **SeattleJS Meetup** in Seattle, WA, USA 🇺🇸 _(Dec 12, 2019)_
-    <br>[_Speaking_](https://www.meetup.com/seattlejs/events/clmbzqyzqbqb/)
-    
-  - **Front End PDX Meetup** in Portland, OR, USA 🇺🇸 _(Dec 17, 2019)_
-    <br>[_Speaking_](https://www.meetup.com/Front-End-PDX/events/jvklwqyzqbwb/)
-    
+ 
+   - **Global Diversity CFP Day** in Düsseldorf, Germany 🇩🇪 _(Jan 18, 2020)_
+    <br>[_Organizing_](https://www.globaldiversitycfpday.com/events/238)
+ 
   - **JS Kongress** in Munich, Germany 🇩🇪 _(Apr 15-16, 2020)_
     <br>[_Keynoting_](https://js-kongress.com/speakers/carolyn-stransky/)
 

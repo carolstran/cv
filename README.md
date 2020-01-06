@@ -64,6 +64,9 @@ As a writer and a web developer, my focus is to display and communicate informat
  
    - **Global Diversity CFP Day** in Düsseldorf, Germany 🇩🇪 _(Jan 18, 2020)_
     <br>[_Organizing_](https://www.globaldiversitycfpday.com/events/238)
+    
+   - **FOSDEM Testing and Automation Developer Room** in Brussels, Belgium :belgium: _(Feb 1, 2020)_
+     <br> :zap: [Testing apps with third-party integrations](https://fosdem.org/2020/schedule/speaker/carolyn_stransky_carostran/)
  
   - **JS Kongress** in Munich, Germany 🇩🇪 _(Apr 15-16, 2020)_
     <br>[_Keynoting_](https://js-kongress.com/speakers/carolyn-stransky/)

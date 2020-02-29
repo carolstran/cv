@@ -1,6 +1,6 @@
 # Carolyn Stransky [she/her]
 
-_Software developer and journalist based in Berlin, Germany_ <br>
+_Frontend developer and journalist based in Berlin, Germany_ <br>
 _(und ja ich lerne deutsch 🍻)_
 
 [@carolstran](https://twitter.com/carolstran) / [carolynstransky@gmail.com](mailto:carolynstransky@gmail.com) / [GitHub](https://www.github.com/carolstran/) / [LinkedIn](https://www.linkedin.com/in/carolstran/)
@@ -8,68 +8,39 @@ _(und ja ich lerne deutsch 🍻)_
 <!-- **You can find a [single-page PDF](https://github.com/carolstran/cv/blob/master/one-pager/StranskyCV.pdf) version of my CV within this repo.** <br> But if you want a more detailed overview, you're in the right place! -->
 <!-- <br><br> -->
 
-## 📡 Objective
-
-As a writer and a web developer, my focus is to display and communicate information. I know how to present data that is clear and accurate, as well as how to program that material into effective, aesthetically pleasing digital interfaces. Journalism and computer science represent a new form of collaboration, and I’m excited to be working at the intersection.
-
-## 👩‍💻 Industry Experience
+## 👩‍💻 Technical Experience
 
 - **Open Source Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Present)_ <br>
   Machine learning company building a fake version of the internet
+  - Maintaining [unmock-js](https://github.com/meeshkan/unmock-js), our homegrown fuzz testing library
+  - Ownership of public-facing documentation and the [Meeshkan website](github.com/meeshkan/worlds-greatest-website/)
+  - Writing technical articles for the [Meeshkan DEV page](https://dev.to/meeshkan/)
+  - **_Technologies used:_** TypeScript, Node.js, Jest, CircleCI, Python.
     <br><br>
 - **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
   Professional chauffeur service available in over 300 cities worldwide
-  - Building out the B2C web products in a cross-functional team
-  - Leading initiatives around web accessibility
-  - Reviewing technical documentation for [open source projects](https://github.com/blacklane/)
+  - Built out the B2C web products in a cross-functional team
+  - Led initiatives around web accessibility
+  - Reviewed technical documentation for [open source projects](https://github.com/blacklane/)
+  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Redux, Next.js, Mocha, Jest, Cypress, TravisCI.
     <br><br>
 - **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
   API-first infrastructure to create, manage and distribute content
   - Ownership of [Contentful's technical blog](https://www.contentful.com/blog/)
-  - Assistance with [developer experience documentation](https://www.contentful.com/developers/docs/), information architecture and UX writing for the web app
+  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
+  - Assistance with information architecture and UX writing for the web app
+  - **_Technologies used:_** React, GraphQL, Gatsby, Contentful.
     <br><br>
-- **Communications Manager** @ [Bonagora](https://medium.com/@bonagora/bonagora-is-closing-d31678e74b4e) _(Apr 2016 - Mar 2017)_ <br>
-  Online B2B marketplace and iOS/Android point of sale app for the home and living wholesale industry
-  - Produced and reviewed content for all external communication
-  - Highlights:
-    - [Bonagora Marketplace Breakdown](https://www.linkedin.com/in/carolstran/detail/treasury/position:802015431/)
-    - [Take Initiative, Change the Industry](https://medium.com/@bonagora/take-initiative-change-the-industry-abccaf5f9a64)
-      <br><br>
-- **Digital Marketing Intern** @ [ascribe.io](https://www.ascribe.io/) _(Nov 2015 - Mar 2016)_ <br>
-  Blockchain technology that empowers creators to truly own digital art
-  - Assisted with the company's communication, marketing and design efforts
-  - Highlights:
-    - Rolled out [BigchainDB](https://www.bigchaindb.com/) and [WhereOnThe.Net](https://www.whereonthe.net/)
-    - [Outreach material for the ascribe platform](https://www.linkedin.com/in/carolstran/detail/treasury/position:763046435/)
-      <br><br>
-
-## 💻 Technologies I Work With
-
-- **Frontend**<br>
-  HTML, CSS (Flexbox, Grid), JavaScript ES6
-
-- **Libraries and Frameworks**<br>
-  React, Redux
-
-- **Backend and Databases**<br>
-  Node.js, Express.js, GraphQL, MongoDB, PostgreSQL
-
-- **Tools and IDEs**<br>
-  Git, GitHub, Flow, TypeScript, Atom, Contentful, Adobe Creative Suite
-  <br><br>
 
 ## 🎤 Speaking
 
 - #### Upcoming Events
  
-   - **Global Diversity CFP Day** in Düsseldorf, Germany 🇩🇪 _(Jan 18, 2020)_
-    <br>[_Organizing_](https://www.globaldiversitycfpday.com/events/238)
-    
-   - **FOSDEM Testing and Automation Developer Room** in Brussels, Belgium :belgium: _(Feb 1, 2020)_
-     <br> :zap: [Testing apps with third-party integrations](https://fosdem.org/2020/schedule/speaker/carolyn_stransky_carostran/)
- 
   - **JS Kongress** in Munich, Germany 🇩🇪 _(Apr 15-16, 2020)_
     <br>[_Keynoting_](https://js-kongress.com/speakers/carolyn-stransky/)
+    
+  - **JSHeroes** in Cluj, Romania 🇷🇴 _(Apr 23-24, 2020)_
+    <br>[A11y-Friendly Documentation](https://jsheroes.io/speakers/carolyn-stransky)
 
 - #### Want me to speak at your event?
   💖 Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.
@@ -77,10 +48,13 @@ As a writer and a web developer, my focus is to display and communicate informat
 
 ## 🌐 On The Side
 
+- **Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
+  Creating and executing two-day HTML and CSS workshops.
+  <br><br>
 - **Tech Speaker** @ [Mozilla](https://events.mozilla.org/techspeakers) _(Nov 2018 - Present)_<br>
   A program bringing together contributors who are already speaking to technical audiences
   <br><br>
-- **Co-Organizer** @ [BerlinJS](https://berlinjs.org/) and [QueerJS](https://queerjs.com/) _(May 2018 - Present)_<br>
+- **Co-Organizer** @ [BerlinJS](https://berlinjs.org/) and [QueerJS](https://queerjs.com/) _(May 2018 - May 2020)_<br>
   🐻 BerlinJS is a JavaScript-focused user group that has been running for nearly 10 years<br>
   🏳️‍🌈 QueerJS is a meetup for everyone where queer speakers take the stage
   - Selecting speakers and scheduling events
@@ -92,14 +66,6 @@ As a writer and a web developer, my focus is to display and communicate informat
   - Led classes to improve student comprehension of HTML, CSS and general web design principles
   - Mentored students through presentations and job search
     <br><br>
-- **Contributing Editor** @ [FLURT Magazine](https://flurt-archives.netlify.com/) _(Mar 2016 - Sep 2018)_ <br>
-  Magazine for socially conscious young people who want to create their own media
-  - Wrote over 20 articles for print and web
-  - Highlights:
-    - [Hacktivists Connect Refugees with Work Opportunities](https://flurt-archives.netlify.com/posts/hacktivists-connect-refugees-with-work-opportunities/)
-    - [What to Do if You Get Doxed](https://flurt-archives.netlify.com/posts/what-to-do-if-you-get-doxed/)
-    - [High Tech Sex](https://medium.com/@carolstran/high-tech-sex-46b44c581129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BSSv4DUfPTnSJsQJRoRhdjQ%3D%3D)
-      <br><br>
 
 ## 👩‍🎓 Education
 

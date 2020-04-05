@@ -1,6 +1,6 @@
-# Carolyn Stransky [she/her]
+# Carolyn Stransky
 
-_Frontend developer and journalist based in Berlin, Germany_ <br>
+_Software developer and journalist based in Berlin, Germany_ <br>
 _(und ja ich lerne deutsch 🍻)_
 
 [@carolstran](https://twitter.com/carolstran) / [carolynstransky@gmail.com](mailto:carolynstransky@gmail.com) / [GitHub](https://www.github.com/carolstran/) / [LinkedIn](https://www.linkedin.com/in/carolstran/)
@@ -31,16 +31,24 @@ _(und ja ich lerne deutsch 🍻)_
   - Assistance with information architecture and UX writing for the web app
   - **_Technologies used:_** React, GraphQL, Gatsby, Contentful.
     <br><br>
+    
+## 🗞 Recent Journalism Experience
+
+- **Freelance Writing** @ 🌐 _(March 2020 - Present)_ <br>
+  _Getting back into it and currently sending pitches._
+    <br><br>
+- **Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
+  Magazine for socially conscious young people who want to create their own media
+  - Wrote over 20 articles for print and web
+  - _Highlights coming soon_
+    <br><br>
 
 ## 🎤 Speaking
 
-- #### Upcoming Events
+- ### Upcoming Events
  
-  - **JS Kongress** in Munich, Germany 🇩🇪 _(Apr 15-16, 2020)_
-    <br>[_Keynoting_](https://js-kongress.com/speakers/carolyn-stransky/)
-    
-  - **JSHeroes** in Cluj, Romania 🇷🇴 _(Apr 23-24, 2020)_
-    <br>[A11y-Friendly Documentation](https://jsheroes.io/speakers/carolyn-stransky)
+  - **Women of React** on the Internet 🌐 _(Apr 25, 2020)_
+    <br>[⚡️ The Most Important UI: You](https://womenofreact.com/)
 
 - #### Want me to speak at your event?
   💖 Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.

@@ -3,7 +3,7 @@
 _Software developer and journalist based in Berlin, Germany_ <br>
 _(und ja ich lerne deutsch 🍻)_
 
-@carolstran / [carolynstransky@gmail.com](mailto:carolynstransky@gmail.com) / [workwithcarolyn.com](https://workwithcarolyn.com/)
+@carolstran / [hello@workwithcarolyn.com](mailto:hello@workwithcarolyn.com) / [workwithcarolyn.com](https://workwithcarolyn.com/)
 
 <!-- **You can find a [single-page PDF](https://github.com/carolstran/cv/blob/master/one-pager/StranskyCV.pdf) version of my CV within this repo.** <br> But if you want a more detailed overview, you're in the right place! -->
 <!-- <br><br> -->

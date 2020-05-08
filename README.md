@@ -47,8 +47,8 @@ _(und ja ich lerne deutsch 🍻)_
 
 - ### Upcoming Events
  
-  - **Women of React** on the Internet 🌐 _(Apr 25, 2020)_
-    <br>[⚡️ The Most Important UI: You](https://womenofreact.com/)
+  - **React Finland Mini-Conference** on the Internet 🌐 _(May 28, 2020)_
+    <br>[Humanizing Your Documentation](https://react-finland.fi/blog/rf-2020-online-mini-conf-vol-1/)
 
 - #### Want me to speak at your event?
   💖 Check out my [tech-talks](https://github.com/carolstran/tech-talks) repo for more information.

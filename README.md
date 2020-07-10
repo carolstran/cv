@@ -3,7 +3,7 @@
 _Software developer and journalist based in Berlin, Germany_ <br>
 _(und ja ich lerne deutsch 🍻)_
 
-@carolstran / [hello@workwithcarolyn.com](mailto:hello@workwithcarolyn.com) / [workwithcarolyn.com](https://workwithcarolyn.com/)
+[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
 <!-- **You can find a [single-page PDF](https://github.com/carolstran/cv/blob/master/one-pager/StranskyCV.pdf) version of my CV within this repo.** <br> But if you want a more detailed overview, you're in the right place! -->
 <!-- <br><br> -->
@@ -12,15 +12,15 @@ _(und ja ich lerne deutsch 🍻)_
 
 - **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Present)_ <br>
   AI-powered automated testing service for GraphQL and REST APIs.
+  - Building the [website](https://meeshkan.com/) and the [web application](https://app.meeshkan.com/) that visualizes the test reports
   - Maintaining [unmock-js](https://github.com/meeshkan/unmock-js), our homegrown fuzz testing library
-  - Building the [Meeshkan website](github.com/meeshkan/worlds-greatest-website/) and the web application that visualizes the test reports
-  - Ownership of documentation and the [Meeshkan blog](https://dev.to/meeshkan/)
+  - Ownership of [documentation](https://meeshkan.com/docs/) and the [blog](https://meeshkan.com/blog/)
   - **_Technologies used:_** TypeScript, React, Node.js, GraphQL, REST, Gatsby, Next.js, Jest, CircleCI, Python.
     <br><br>
 - **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
   Professional chauffeur service available in over 300 cities worldwide.
   - Built out the B2C web products in a cross-functional team
-  - Led company-wide initiatives around web accessibility
+  - Led company-wide initiatives around [web accessibility](https://www.blacklane.com/en/accessibility/)
   - Reviewed documentation for [open source projects](https://github.com/blacklane/)
   - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, GraphQL, REST, Redux, Next.js, Jest, Cypress, TravisCI.
     <br><br>
@@ -30,6 +30,10 @@ _(und ja ich lerne deutsch 🍻)_
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
   - Assistance with information architecture and UX writing for the web app
   - **_Technologies used:_** React, GraphQL, REST, Gatsby, Node.js, Contentful.
+  - **_Selected work:_**
+    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
+    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
+    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
     <br><br>
     
 ## 🗞 Recent Journalism Experience
@@ -39,8 +43,12 @@ _(und ja ich lerne deutsch 🍻)_
     <br><br>
 - **Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
   Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web
-  - _Highlights coming soon_
+  - Wrote over 20 articles for print and web focused on technology and activism
+  - Edited and curated online-exclusive content
+  - **_Selected articles:_**
+    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
+    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
+    - [High Tech Sex](https://workwithcarolyn.com/words/high-tech-sex)
     <br><br>
 
 ## 🎤 Speaking
@@ -56,20 +64,21 @@ _(und ja ich lerne deutsch 🍻)_
  
   - **Women TechMakers Vienna** on the Internet 🌐 _(Aug 7-8, 2020)_
     <br>[How AI is Enhancing Journalism](https://www.womentechmakers.at/)
-
-- #### Want me to speak at your event?
-  💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-  <br><br>
+    <br><br>
+  - **Want me to speak at your event?**
+    <br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
+    <br><br>
 
 ## 🌐 On The Side
 
 - **Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
   Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
   - Built and continuously developed the course curriculum with a team of four instructors
-  - Led classes to improve student comprehension of HTML, CSS and general web design principles
+  - Led classes to improve student comprehension of React, HTML, CSS and general web design principles
   - Mentored students through presentations and job search
+  - _Note: Took a break from teaching in 2019_
     <br><br>
-- **Co-Organizer** @ [QueerJS](https://queerjs.com/) _(June 2019 - Present)_<br>
+- **Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Present)_<br>
   🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
   - Selecting speakers and scheduling events
   - Fostering an inclusive community and enforcing the code of conduct

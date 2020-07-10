@@ -87,14 +87,14 @@ _(und ja ich lerne deutsch 🍻)_
 
 ## 👩‍🎓 Education
 
-- **12-week intensive coding course** focused on JavaScript<br>
+- **12-week intensive coding course** focused on full-stack JavaScript<br>
   [SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
 
 - **Bachelor of Arts** in Journalism and Media Studies<br>
   [Beloit College](https://www.beloit.edu/search/?q=carolyn+stransky&x=0&y=0&as_sitesearch=https%3A%2F%2Fwww.beloit.edu%2F) - Beloit, Wisconsin, USA _(2011 - 2015)_
 
-- **Washington Semester Program**<br>
+- **Washington Semester Program** for Journalism and New Media<br>
   [American University](https://www.beloit.edu/campus/news/?story_id=427353) - Washington DC, USA _(Fall 2014)_
 
-- **International Exchange**<br>
+- **International Exchange** studying Political Science<br>
   [Yeditepe Üniversitesi](https://www.beloit.edu/campus/news/?story_id=381343) - Istanbul, Turkey _(Spring 2013)_

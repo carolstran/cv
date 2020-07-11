@@ -84,6 +84,9 @@ _(und ja ich lerne deutsch 🍻)_
   - Fostering an inclusive community and enforcing the code of conduct
   - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
     <br><br>
+- **Speakers Bureau Member** @ [RAINN](https://www.rainn.org/speakers-bureau) _(Oct 2015 - Present)_<br>
+  A network of sexual violence survivors who volunteer to share their stories.
+  <br><br>
 
 ## 👩‍🎓 Education
 

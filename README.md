@@ -68,6 +68,14 @@ _(und ja ich lerne deutsch 🍻)_
   - **Want me to speak at your event?**
     <br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
     <br><br>
+    
+- ### Recent Appearances
+
+  - **DevJourney Podcast** _(published on Jun 2, 2020)_
+  <br>[Carolyn Stransky learning her way from journalist to developer and back](https://devjourney.info/Guests/103-CarolynStransky.html)
+  <br><br>
+  - **Want me on your podcast or panel?**
+    <br>🎙 Check out my website for more information: [Podcasts](https://workwithcarolyn.com/speaking/podcasts), [Panels](https://workwithcarolyn.com/speaking/panels), [Something else?](mailto:hello@workwithcarolyn.com)
 
 ## 🌐 On The Side
 
@@ -86,6 +94,12 @@ _(und ja ich lerne deutsch 🍻)_
     <br><br>
 - **Speakers Bureau Member** @ [RAINN](https://www.rainn.org/speakers-bureau) _(Oct 2015 - Present)_<br>
   A network of sexual violence survivors who volunteer to share their stories.
+  <br><br>
+  
+## 🏆 Other Accomplishments
+
+- **Won Best Project** @ [Geek Girl Carrots Berlin Travel Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
+  Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
   <br><br>
 
 ## 👩‍🎓 Education

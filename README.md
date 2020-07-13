@@ -99,7 +99,7 @@ _(und ja ich lerne deutsch 🍻)_
   
 ## 🏆 Other Accomplishments
 
-- **Won Best Project** @ [Geek Girl Carrots Berlin Travel Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
+- **Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
   Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
   <br><br>
 

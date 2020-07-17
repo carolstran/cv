@@ -13,15 +13,15 @@ _(und ja ich lerne deutsch 🍻)_
 - **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Present)_ <br>
   AI-powered automated testing service for GraphQL and REST APIs.
   - Building the [website](https://meeshkan.com/) and the [web application](https://app.meeshkan.com/) that visualizes the test reports
-  - Maintaining [unmock-js](https://github.com/meeshkan/unmock-js), our homegrown fuzz testing library
+  - Maintaining [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
   - Ownership of [documentation](https://meeshkan.com/docs/) and the [blog](https://meeshkan.com/blog/)
   - **_Technologies used:_** TypeScript, React, Node.js, GraphQL, REST, Gatsby, Next.js, Jest, CircleCI, Python.
     <br><br>
 - **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
   Professional chauffeur service available in over 300 cities worldwide.
-  - Built out the B2C web products in a cross-functional team
-  - Led company-wide initiatives around [web accessibility](https://www.blacklane.com/en/accessibility/)
-  - Reviewed documentation for [open source projects](https://github.com/blacklane/)
+  - Worked in a cross-functional, agile team to rebuild and rebrand the B2C booking experience
+  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
+  - Extended and maintained a company-wide design system
   - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, GraphQL, REST, Redux, Next.js, Jest, Cypress, TravisCI.
     <br><br>
 - **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
@@ -39,7 +39,7 @@ _(und ja ich lerne deutsch 🍻)_
 ## 🗞 Recent Journalism Experience
 
 - **Freelance Writing** @ 🌐 _(Mar 2020 - Present)_ <br>
-  _Recent articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/) and [DZone](https://dzone.com/users/4255812/carolstran.html). Currently sending pitches._
+  _Articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/) and [DZone](https://dzone.com/users/4255812/carolstran.html). Currently sending pitches._
     <br><br>
 - **Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
   Magazine for socially conscious young people who want to create their own media.

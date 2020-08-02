@@ -17,6 +17,7 @@ Early-stage startup focused on automated API testing and NLP.
     - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
     - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
     - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
+    <br><br>
 
 **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
 Professional chauffeur service available in over 300 cities worldwide.
@@ -24,6 +25,7 @@ Professional chauffeur service available in over 300 cities worldwide.
   - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
   - Extended and maintained a company-wide design system
   - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, GraphQL, REST, Redux, Next.js, Jest, Cypress, TravisCI.
+  <br><br>
 
 **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
 API-first infrastructure to create, manage and distribute content.
@@ -35,6 +37,7 @@ API-first infrastructure to create, manage and distribute content.
     - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
     - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
+    <br><br>
     
 ## 🗞 Recent Journalism Experience
 
@@ -49,6 +52,7 @@ Magazine for socially conscious young people who want to create their own media.
     - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
     - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
     - [High Tech Sex](https://workwithcarolyn.com/words/high-tech-sex)
+    <br><br>
 
 ## 🎤 Speaking
 
@@ -71,6 +75,7 @@ Creating and executing free two-day web development workshops.
   <br>[Learning GraphQL Panel](https://www.twitch.tv/videos/696266743?t=1h15m3s)
   - **Want me on your podcast or panel?**
     <br>🎙 Check out my website for more information: [Podcasts](https://workwithcarolyn.com/speaking/podcasts), [Panels](https://workwithcarolyn.com/speaking/panels), [Something else?](mailto:hello@workwithcarolyn.com)
+    <br><br>
 
 ## 🌐 On The Side
 
@@ -80,20 +85,24 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
   - Led classes to improve student comprehension of React, HTML, CSS and general web design principles
   - Mentored students through presentations and job search
   - _Note: Took a break from teaching in 2019_
+  <br><br>
 
 **Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Present)_<br>
 🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
   - Selecting speakers and scheduling events
   - Fostering an inclusive community and enforcing the code of conduct
   - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
+  <br><br>
 
 **Speakers Bureau Member** @ [RAINN](https://www.rainn.org/speakers-bureau) _(Oct 2015 - Present)_<br>
 A network of sexual violence survivors who volunteer to share their stories.
+<br><br>
   
 ## 🏆 Other Accomplishments
 
 **Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
 Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
+<br><br>
 
 ## 👩‍🎓 Education
 

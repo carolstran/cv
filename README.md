@@ -9,7 +9,7 @@ _(und ja ich lerne deutsch 🍻)_
 
 **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Present)_ <br>
 Early-stage startup focused on automated API testing and NLP.
-  - Building the [website](https://meeshkan.com/) and the [web application](https://app.meeshkan.com/) that visualizes the test reports
+  - Building the [website](https://meeshkan.com/) and the [web app](https://app.meeshkan.com/) that visualizes the test reports
   - Maintaining [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
   - Ownership of [documentation](https://meeshkan.com/docs/) and the [blog](https://meeshkan.com/blog/)
   - **_Technologies used:_** TypeScript, React, Node.js, GraphQL, REST, Gatsby, Next.js, Jest, CircleCI, Python.

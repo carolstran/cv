@@ -13,7 +13,7 @@ _(und ja ich lerne deutsch 🍻)_
   - Maintaining [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
   - Ownership of [documentation](https://meeshkan.com/docs/) and the [blog](https://meeshkan.com/blog/)
   - **_Technologies used:_** TypeScript, React, Node.js, GraphQL, REST, Gatsby, Next.js, Jest, CircleCI, Python.
-  - **_Selected work:_**
+  - **_Selected open-source work:_**
     - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
     - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
     - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
@@ -21,7 +21,7 @@ _(und ja ich lerne deutsch 🍻)_
 
 **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
   Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the B2C booking experience
+  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
   - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
   - Extended and maintained a company-wide design system
   - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, GraphQL, REST, Redux, Next.js, Jest, Cypress, TravisCI.
@@ -33,7 +33,7 @@ _(und ja ich lerne deutsch 🍻)_
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
   - Assistance with information architecture and UX writing for the web app
   - **_Technologies used:_** React, GraphQL, REST, Gatsby, Node.js, Contentful.
-  - **_Selected work:_**
+  - **_Selected writing:_**
     - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
     - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)

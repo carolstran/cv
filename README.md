@@ -24,7 +24,7 @@ Professional chauffeur service available in over 300 cities worldwide.
   - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
   - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
   - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, GraphQL, REST, Redux, Next.js, Jest, Cypress, TravisCI.
+  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, REST, Redux, Next.js, Jest, Cypress, TravisCI.
   <br><br>
 
 **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>

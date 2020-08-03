@@ -5,14 +5,14 @@ _(und ja ich lerne deutsch 🍻)_
 
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
-## 👩‍💻 Technical Experience
+## 👩🏼‍💻 Technical Experience
 
 **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Present)_ <br>
 Early-stage startup focused on automated API testing and NLP.
   - Building the [website](https://meeshkan.com/) and the [web app](https://app.meeshkan.com/) that visualizes the test reports
   - Maintaining [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
   - Ownership of [documentation](https://meeshkan.com/docs/) and the [blog](https://meeshkan.com/blog/)
-  - **_Technologies used:_** TypeScript, React, Node.js, GraphQL, REST, Gatsby, Next.js, Jest, CircleCI, Python.
+  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
   - **_Selected open-source work:_**
     - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
     - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
@@ -24,7 +24,7 @@ Professional chauffeur service available in over 300 cities worldwide.
   - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
   - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
   - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, REST, Redux, Next.js, Jest, Cypress, TravisCI.
+  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Cypress, TravisCI.
   <br><br>
 
 **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
@@ -32,7 +32,7 @@ API-first infrastructure to create, manage and distribute content.
   - Ownership of [Contentful's technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
   - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, GraphQL, REST, Gatsby, Node.js, Contentful.
+  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
   - **_Selected writing:_**
     - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
     - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
@@ -104,7 +104,7 @@ A network of sexual violence survivors who volunteer to share their stories.
 Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
 <br><br>
 
-## 👩‍🎓 Education
+## 👩🏼‍🎓 Education
 
 **12-week intensive coding course** focused on full-stack JavaScript<br>
 [SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>

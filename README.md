@@ -71,8 +71,8 @@ Creating and executing free two-day web development workshops.
     
 - ### Recent Appearances
 
-  - **GraphQL Summit Worldwide** _(streamed on Jul 31, 2020)_
-  <br>[Learning GraphQL Panel](https://www.twitch.tv/videos/696266743?t=1h15m3s)
+  - **The Culture Ops Podcast** _(released on Aug 6, 2020)_
+  <br>[How to enable your team to bring their emotions to the workplace](https://podcasts.bcast.fm/e/4286v438)
   - **Want me on your podcast or panel?**
     <br>🎙 Check out my website for more information: [Podcasts](https://workwithcarolyn.com/speaking/podcasts), [Panels](https://workwithcarolyn.com/speaking/panels), [Something else?](mailto:hello@workwithcarolyn.com)
     <br><br>

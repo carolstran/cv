@@ -7,6 +7,10 @@ _(und ja ich lerne deutsch 🍻)_
 
 ## 👩🏼‍💻 Technical Experience
 
+**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Present)_ <br>
+Creating a [Frequently Asked Questions (FAQ) resource](https://developers.google.com/season-of-docs/docs/participants/project-graphql-carolstran) for graphql.org
+<br><br>
+
 **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Present)_ <br>
 Early-stage startup focused on automated API testing and NLP.
   - Building the [website](https://meeshkan.com/) and the [web app](https://app.meeshkan.com/) that visualizes the test reports

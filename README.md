@@ -1,6 +1,6 @@
 # Carolyn Stransky
 
-_Software developer and journalist based in Berlin, Germany_ <br>
+_Software developer (and sometimes still a journalist) based in Berlin, Germany_ <br>
 
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
@@ -42,10 +42,14 @@ API-first infrastructure to create, manage and distribute content.
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
     <br><br>
     
-## 🗞 Recent Journalism Experience
+## 🗞 Journalism Experience
 
-**Freelance Writing** @ 🌐 _(Mar 2020 - Present)_ <br>
-_Articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/) and [DZone](https://dzone.com/users/4255812/carolstran.html). Currently sending pitches._
+_This section only accounts for work done post-career change._
+<br><br>
+
+**Freelance Writing** _(Mar 2020 - Present)_ <br>
+Currently on a break from sending pitches. Recent articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/) and [DZone](https://dzone.com/users/4255812/carolstran.html).
+<br><br>
 
 **Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
 Magazine for socially conscious young people who want to create their own media.
@@ -57,36 +61,13 @@ Magazine for socially conscious young people who want to create their own media.
     - [High Tech Sex](https://workwithcarolyn.com/words/high-tech-sex)
     <br><br>
 
-## 🎤 Speaking
-
-**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
-Creating and executing free two-day web development workshops.
-
-**Tech Speaker** @ [Mozilla](https://events.mozilla.org/techspeakers) _(Nov 2018 - Aug 2020)_<br>
-A program bringing together contributors who are already speaking to technical audiences.
-
-### Upcoming Events
- 
-  - **Write the Docs** on the Internet 🌐 _(Oct 18-20, 2020)_
-    <br>[Emceeing](https://www.writethedocs.org/conf/prague/2020/)
-  - **Want me to speak at your event?**
-    <br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-    
-### Recent Appearances
-
-  - **The Culture Ops Podcast** _(released on Aug 6, 2020)_
-  <br>[How to enable your team to bring their emotions to the workplace](https://podcasts.bcast.fm/e/4286v438)
-  - **Want me on your podcast or panel?**
-    <br>🎙 Check out my website for more information: [Podcasts](https://workwithcarolyn.com/speaking/podcasts), [Panels](https://workwithcarolyn.com/speaking/panels), [Something else?](mailto:hello@workwithcarolyn.com)
-    <br><br>
-
-## 🌐 On The Side
+## 📌 Volunteer Experience
 
 **Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
 Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Built and continuously developed the course curriculum with a team of four instructors
-  - Led classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentored students through presentations and job search
+  - Building and continuously developing the course curriculum with a team of 4-8 other instructors
+  - Leading classes to improve student comprehension of React, HTML, CSS and general web design principles
+  - Mentoring students through presentations and job search
   - _Note: Took a break from teaching in 2019_
   <br><br>
 
@@ -96,9 +77,32 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
   - Fostering an inclusive community and enforcing the code of conduct
   - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
   <br><br>
+  
+**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
+Free, two-day workshops to help people build their first website.
+  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
+  - Preparing supplemental presentations on topics like accessibility and animations
+  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
+  <br><br>
 
-**Speakers Bureau Member** @ [RAINN](https://www.rainn.org/speakers-bureau) _(Oct 2015 - Present)_<br>
-A network of sexual violence survivors who volunteer to share their stories.
+## 🎤 Public Speaking
+
+### Upcoming Events
+ 
+**Write the Docs** on the Internet 🌐 _(Oct 18-20, 2020)_
+<br>[Emceeing](https://www.writethedocs.org/conf/prague/2020/)<br>
+    
+### Recent Appearances
+
+**Women TechMakers Vienna** _(streamed on Aug 7, 2020)_
+<br>[How AI is Enhancing Journalism](https://www.youtube.com/watch?v=bKgzgo5Iq5s&feature=youtu.be&t=6492)<br>
+<br>
+**The Culture Ops Podcast** _(released on Aug 6, 2020)_
+<br>[How to enable your team to bring their emotions to the workplace](https://podcasts.bcast.fm/e/4286v438)<br>
+<br>
+
+**Want me to speak at your event?**
+<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
 <br><br>
   
 ## 🏆 Other Accomplishments
@@ -109,8 +113,8 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## 💬 Languages
 
-🇺🇸 **English**: Native <br>
-🇩🇪 **German**: A2.2
+**English**: Native <br>
+**German**: A2.2
 <br><br>
 
 ## 👩🏼‍🎓 Education

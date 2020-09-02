@@ -1,7 +1,6 @@
 # Carolyn Stransky
 
 _Software developer and journalist based in Berlin, Germany_ <br>
-_(und ja ich lerne deutsch 🍻)_
 
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
@@ -11,7 +10,7 @@ _(und ja ich lerne deutsch 🍻)_
 Creating a [Frequently Asked Questions (FAQ) resource](https://developers.google.com/season-of-docs/docs/participants/project-graphql-carolstran) for graphql.org
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Present)_ <br>
+**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
 Early-stage startup focused on automated API testing and NLP.
   - Building the [website](https://meeshkan.com/) and the [web app](https://app.meeshkan.com/) that visualizes the test reports
   - Maintaining [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
@@ -60,20 +59,20 @@ Magazine for socially conscious young people who want to create their own media.
 
 ## 🎤 Speaking
 
-**Tech Speaker** @ [Mozilla](https://events.mozilla.org/techspeakers) _(Nov 2018 - Present)_<br>
-A program bringing together contributors who are already speaking to technical audiences.
-
 **Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
 Creating and executing free two-day web development workshops.
 
-- ### Upcoming Events
+**Tech Speaker** @ [Mozilla](https://events.mozilla.org/techspeakers) _(Nov 2018 - Aug 2020)_<br>
+A program bringing together contributors who are already speaking to technical audiences.
+
+### Upcoming Events
  
-  - **Women TechMakers Vienna** on the Internet 🌐 _(Aug 7-8, 2020)_
-    <br>[How AI is Enhancing Journalism](https://www.womentechmakers.at/)
+  - **Write the Docs** on the Internet 🌐 _(Oct 18-20, 2020)_
+    <br>[Emceeing](https://www.writethedocs.org/conf/prague/2020/)
   - **Want me to speak at your event?**
     <br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
     
-- ### Recent Appearances
+### Recent Appearances
 
   - **The Culture Ops Podcast** _(released on Aug 6, 2020)_
   <br>[How to enable your team to bring their emotions to the workplace](https://podcasts.bcast.fm/e/4286v438)
@@ -106,6 +105,12 @@ A network of sexual violence survivors who volunteer to share their stories.
 
 **Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
 Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
+<br><br>
+
+## 💬 Languages
+
+🇺🇸 **English**: Native <br>
+🇩🇪 **German**: A2.2
 <br><br>
 
 ## 👩🏼‍🎓 Education

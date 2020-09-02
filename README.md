@@ -89,15 +89,15 @@ Free, two-day workshops to help people build their first website.
 
 ### Upcoming Events
  
-**Write the Docs** on the Internet 🌐 _(Oct 18-20, 2020)_
+- **Write the Docs** on the Internet 🌐 _(Oct 18-20, 2020)_
 <br>[Emceeing](https://www.writethedocs.org/conf/prague/2020/)<br>
     
 ### Recent Appearances
 
-**Women TechMakers Vienna** _(streamed on Aug 7, 2020)_
+- **Women TechMakers Vienna** _(streamed on Aug 7, 2020)_
 <br>[How AI is Enhancing Journalism](https://www.youtube.com/watch?v=bKgzgo5Iq5s&feature=youtu.be&t=6492)<br>
-<br>
-**The Culture Ops Podcast** _(released on Aug 6, 2020)_
+
+- **The Culture Ops Podcast** _(released on Aug 6, 2020)_
 <br>[How to enable your team to bring their emotions to the workplace](https://podcasts.bcast.fm/e/4286v438)<br>
 <br>
 

@@ -61,7 +61,7 @@ Magazine for socially conscious young people who want to create their own media.
     - [High Tech Sex](https://workwithcarolyn.com/words/high-tech-sex)
     <br><br>
 
-## 📌 Volunteer Experience
+## 📌 On The Side
 
 **Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
 Non-profit digital school for tech-interested newcomers applying for asylum in Germany.

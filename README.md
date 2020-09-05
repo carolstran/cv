@@ -97,8 +97,8 @@ Free, two-day workshops to help people build their first website.
 - **Women TechMakers Vienna** _(streamed on Aug 7, 2020)_
 <br>[How AI is Enhancing Journalism](https://www.youtube.com/watch?v=bKgzgo5Iq5s&feature=youtu.be&t=6492)<br>
 
-- **The Culture Ops Podcast** _(released on Aug 6, 2020)_
-<br>[How to enable your team to bring their emotions to the workplace](https://podcasts.bcast.fm/e/4286v438)<br>
+- **Talk Python To Me Podcast** _(released on Sep 5, 2020)_
+<br>[Python and AI in Journalism](https://talkpython.fm/episodes/show/280/python-and-ai-in-journalism)<br>
 <br>
 
 **Want me to speak at your event?**

@@ -105,7 +105,13 @@ Free, two-day workshops to help people build their first website.
 <br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
 <br><br>
   
-## 🏆 Other Accomplishments
+## 🏆 Accomplishments
+
+**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
+Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
+  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
+  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
+<br><br>
 
 **Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
 Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.

@@ -12,9 +12,9 @@ Creating a [Frequently Asked Questions (FAQ) resource](https://developers.google
 
 **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
 Early-stage startup focused on automated API testing and NLP.
-  - Building the [website](https://meeshkan.com/) and the [web app](https://app.meeshkan.com/) that visualizes the test reports
-  - Maintaining [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of [documentation](https://meeshkan.com/docs/) and the [blog](https://meeshkan.com/blog/)
+  - Built the [website](https://meeshkan.com/) and the [web app](https://app.meeshkan.com/) that visualizes the test reports
+  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
+  - Ownership of Meeshkan's [documentation](https://meeshkan.com/docs/) and [technical blog](https://meeshkan.com/blog/)
   - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
   - **_Selected open-source work:_**
     - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
@@ -32,7 +32,7 @@ Professional chauffeur service available in over 300 cities worldwide.
 
 **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
 API-first infrastructure to create, manage and distribute content.
-  - Ownership of [Contentful's technical blog](https://www.contentful.com/blog/)
+  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
   - Assistance with information architecture and UX writing for the web app
   - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.

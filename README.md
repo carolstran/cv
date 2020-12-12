@@ -6,8 +6,17 @@ _Software developer (and sometimes still a journalist) based in Berlin, Germany_
 
 ## 👩🏼‍💻 Technical Experience
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Present)_ <br>
-Creating a [Frequently Asked Questions (FAQ) resource](https://developers.google.com/season-of-docs/docs/participants/project-graphql-carolstran) for graphql.org
+**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
+Part of the design systems team behind BRYTER's no-code building platform.
+<br><br>
+
+**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
+[Google Season of Docs](https://developers.google.com/season-of-docs) is a short-term program matching experienced technical writers with open source organizations.
+  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
+  - Triaged issues and reviewed pull requests to the [GraphQL documentation](https://github.com/graphql/graphql.github.io/)
+  - Wrote internal documentation to improve the overall contributing experience
+  - Assisted with the migration of graphql.org from custom scripts to Gatsby
+  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
 <br><br>
 
 **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
@@ -22,7 +31,7 @@ Early-stage startup focused on automated API testing and NLP.
     - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
     <br><br>
 
-**Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
+**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
 Professional chauffeur service available in over 300 cities worldwide.
   - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
   - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
@@ -86,19 +95,14 @@ Free, two-day workshops to help people build their first website.
   <br><br>
 
 ## 🎤 Public Speaking
-
-### Upcoming Events
- 
-- **Write the Docs** on the Internet 🌐 _(Oct 18-20, 2020)_
-<br>[Emceeing](https://www.writethedocs.org/conf/prague/2020/)<br>
     
 ### Recent Appearances
 
-- **Women TechMakers Vienna** _(streamed on Aug 7, 2020)_
-<br>[How AI is Enhancing Journalism](https://www.youtube.com/watch?v=bKgzgo5Iq5s&feature=youtu.be&t=6492)<br>
+- **Women TechMakers Vienna Conference** _(streamed on Aug 7, 2020)_
+<br>[How AI is Enhancing Journalism](https://www.youtube.com/watch?v=-qZCRHwnnbM)<br>
 
-- **Talk Python To Me Podcast** _(released on Sep 5, 2020)_
-<br>[Python and AI in Journalism](https://talkpython.fm/episodes/show/280/python-and-ai-in-journalism)<br>
+- **DevDiscuss Podcast** _(released on Dec 9, 2020)_
+<br>[Improving Your Onboarding For Early Career Devs](https://dev.to/devteam/improving-your-onboarding-for-early-career-devs-with-carolyn-stransky-john-britton-2ec3)<br>
 <br>
 
 **Want me to speak at your event?**
@@ -129,10 +133,10 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 [SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
 
 **Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/search/?q=carolyn+stransky&x=0&y=0&as_sitesearch=https%3A%2F%2Fwww.beloit.edu%2F) - Beloit, Wisconsin, USA _(2011 - 2015)_
+[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
 
 **Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.beloit.edu/campus/news/?story_id=427353) - Washington DC, USA _(Fall 2014)_
+[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
 
 **International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://www.beloit.edu/campus/news/?story_id=381343) - Istanbul, Turkey _(Spring 2013)_
+[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_

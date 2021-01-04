@@ -1,6 +1,6 @@
 # Carolyn Stransky
 
-_Software developer (and sometimes still a journalist) based in Berlin, Germany_ <br>
+_Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
 
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
@@ -11,11 +11,10 @@ Part of the design systems team behind BRYTER's no-code building platform.
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs) is a short-term program matching experienced technical writers with open source organizations.
+[Google Season of Docs](https://developers.google.com/season-of-docs) is a program matching experienced technical writers with open source organizations.
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL documentation](https://github.com/graphql/graphql.github.io/)
+  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
   - Wrote internal documentation to improve the contributing experience
-  - Assisted with migrating graphql.org from custom scripts to Gatsby
   - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
 <br><br>
 

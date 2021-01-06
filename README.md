@@ -7,14 +7,17 @@ _Software engineer (and sometimes still a journalist) based in Berlin, Germany_ 
 ## 👩🏼‍💻 Technical Experience
 
 **Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
-Part of the design systems team behind BRYTER's no-code building platform.
+No-code platform that enables professionals to build interactive applications.
+  - Extending and maintaining a company-wide design system
+  - Building a new frontend component library
+  - **_Technologies used:_** HTML, CSS, Sass, Vue, TypeScript, Storybook, Jest.
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs) is a program matching experienced technical writers with open source organizations.
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
   - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote internal documentation to improve the contributing experience
+  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
   - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
 <br><br>
 
@@ -53,6 +56,13 @@ API-first infrastructure to create, manage and distribute content.
 ## 🗞 Journalism Experience
 
 _This section only accounts for work done post-career change._
+<br><br>
+
+**Contributing Writer** @ [Future of Sex](https://futureofsex.net/) _(Dec 2020 - Present)_ <br>
+Online publication that provides insights into the future of human sex and sexuality.
+  - Writing regular features focused on sexual health and identity
+  - **_Selected articles:_**
+    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
 <br><br>
 
 **Freelance Writing** _(Mar 2020 - Present)_ <br>

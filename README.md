@@ -61,8 +61,10 @@ _This section only accounts for work done post-career change._
 **Contributing Writer** @ [Future of Sex](https://futureofsex.net/) _(Dec 2020 - Present)_ <br>
 Online publication that provides insights into the future of human sex and sexuality.
   - Writing regular features focused on sexual health and identity
+  - Reporting on events that are relevant to the sex tech community
   - **_Selected articles:_**
     - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
+    - [Sex Tech Hackers Will Get 'Touchy Feely' at Virtual Event This Weekend](https://futureofsex.net/sex-tech/sex-tech-hackers-will-get-touchy-feely-at-virtual-event-this-weekend/)
 <br><br>
 
 **Freelance Writing** _(Mar 2020 - Present)_ <br>

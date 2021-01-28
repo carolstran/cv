@@ -10,7 +10,7 @@ _Software engineer (and sometimes still a journalist) based in Berlin, Germany_ 
 No-code platform that enables professionals to build interactive applications.
   - Extending and maintaining a company-wide design system
   - Building a new frontend component library
-  - **_Technologies used:_** HTML, CSS, Sass, Vue, TypeScript, Storybook, Jest.
+  - **_Technologies used:_** HTML, CSS, Sass, Web Components (LitElement), Vue, TypeScript, Storybook, Jest.
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>

@@ -68,7 +68,7 @@ Online publication that provides insights into the future of human sex and sexua
 <br><br>
 
 **Freelance Writing** _(Mar 2020 - Present)_ <br>
-Recent articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/) and [DZone](https://dzone.com/users/4255812/carolstran.html).
+Recent articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), [DZone](https://dzone.com/users/4255812/carolstran.html), and [FAWCO's Inspiring Women Magazine](https://workwithcarolyn.com/words/fawco-feature).
 <br><br>
 
 **Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>

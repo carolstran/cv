@@ -23,9 +23,9 @@ No-code platform that enables professionals to build interactive applications.
 
 **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
 Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the [web app](https://app.meeshkan.com/) that visualizes the test reports
+  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
   - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's [documentation](https://meeshkan.com/docs/) and [technical blog](https://meeshkan.com/blog/)
+  - Ownership of Meeshkan's documentation and technical blog
   - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
   - **_Selected open-source work:_**
     - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)

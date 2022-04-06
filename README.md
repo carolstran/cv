@@ -4,7 +4,7 @@ _Software engineer (and sometimes still a journalist) based in Berlin, Germany_ 
 
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
-## 👩🏼‍💻 Technical Experience
+## 👩🏼‍💻 Engineering Experience
 
 **Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
@@ -58,18 +58,19 @@ API-first infrastructure to create, manage and distribute content.
 _This section only accounts for work done post-career change._
 <br><br>
 
-**Contributing Writer** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Dec 2020 - Present)_ <br>
+**Acting Editor** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Apr 2022 - Present)_ <br>
+_Previously worked a Reporter from Dec 2020 - Apr 2022_ <br>
 Online publication that provides insights into the future of human sex and sexuality.
-  - Writing regular features focused on sexual health and identity
-  - Reporting on events that are relevant to the sex tech community
+  - Managing a team of writers and the Future of Sex editorial calendar
+  - Writing features and reporting on events relevant to the sex tech community
   - **_Selected articles:_**
     - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
     - [Exploring Queerness By Switching Up My Vibrators](https://futureofsex.net/sex-tech/exploring-queerness-by-switching-up-my-vibrators/)
     - [Future of Fingering: Lessons Learned from the Award-Winning Tentilex Project](https://futureofsex.net/sex-tech/future-of-fingering-lessons-learned-from-the-award-winning-tentilex-project/)
 <br><br>
 
-**Freelance Writing** _(Mar 2020 - Present)_ <br>
-Recent articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), [Sex for Every Body](https://sexforeverybody.com/author/carolyn/), [FAWCO's Inspiring Women Magazine](https://workwithcarolyn.com/words/fawco-feature), and more.
+**Freelance Writer** _(Mar 2020 - Present)_ <br>
+Regular contributor to [Sex for Every Body](https://sexforeverybody.com/author/carolyn/). Other articles in [Autostraddle](https://www.autostraddle.com/sharing-is-caring-or-did-you-skip-that-day-in-school__trashed/), [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), and [elsewhere](https://workwithcarolyn.com/words).
 <br><br>
 
 **Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
@@ -84,27 +85,28 @@ Magazine for socially conscious young people who want to create their own media.
 
 ## 📌 On The Side
 
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Building and continuously developing the course curriculum with a team of 4-8 other instructors
-  - Leading classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentoring students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
-  <br><br>
-
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Present)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-  - Selecting speakers and scheduling events
-  - Fostering an inclusive community and enforcing the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
-  <br><br>
-  
 **Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
 Free, two-day workshops to help people build their first website.
   - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
   - Preparing supplemental presentations on topics like accessibility and animations
   - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
   <br><br>
+
+**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
+Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
+  - Built and continuously developed the course curriculum with a team of 4-8 other instructors
+  - Led classes to improve student comprehension of React, HTML, CSS and general web design principles
+  - Mentored students through presentations and job search
+  - _Note: Took a break from teaching in 2019_
+  <br><br>
+
+**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
+🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
+  - Selected speakers and scheduling events
+  - Fostered an inclusive community and enforced the code of conduct
+  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
+  <br><br>
+  
 
 ## 🎤 Public Speaking
     

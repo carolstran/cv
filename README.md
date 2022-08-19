@@ -6,11 +6,12 @@ _Software engineer and journalist based in Berlin, Germany_ <br>
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
+**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
-  - Implementing features that improve the UI and accessibility of the integrations platform
-  - Extending a company-wide design system
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
+  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
+  - Wrote code in multiple architecture layers, including the application core and integrations with external services
+  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
+  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
@@ -83,9 +84,9 @@ Magazine for socially conscious young people who want to create their own media.
     - [How Marijuana Can Improve Your Health](https://workwithcarolyn.com/words/how-marijuana-can-improve-your-health)
     <br><br>
 
-## 📌 On The Side
+## 📌 Volunteering
 
-**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
+**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Dec 2021)_ <br>
 Free, two-day workshops to help people build their first website.
   - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
   - Preparing supplemental presentations on topics like accessibility and animations
@@ -112,8 +113,8 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
     
 ### Recent Appearances
 
-- **Women TechMakers Vienna Conference** _(streamed on Aug 7, 2020)_
-<br>[How AI is Enhancing Journalism](https://www.youtube.com/watch?v=-qZCRHwnnbM)<br>
+- **JSHeroes** live in Cluj 🇷🇴 _(Jun 9, 2022)_
+<br>[Humanizing Your Documentation](https://www.youtube.com/watch?v=yE7eOoXTZtM)<br>
 
 - **single-threaded Podcast** _(released on Mar 31, 2021)_
 <br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
@@ -140,8 +141,8 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## 💬 Languages
 
-**English**: Native <br>
-**German**: A2.2
+🇺🇸 **English**: Native <br>
+🇩🇪 **German**: B1
 <br><br>
 
 ## 👩🏼‍🎓 Education

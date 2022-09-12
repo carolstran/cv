@@ -89,6 +89,12 @@ Magazine for socially conscious young people who want to create their own media.
 
 ## 📌 Volunteering
 
+**EU Conference Team Member** @ [Write the Docs](https://www.writethedocs.org/conf/) _(Jul 2019 - Present)_<br>
+Technology conference focused on documentation systems, tech writing theory, and information delivery.
+  - [Emceed](https://workwithcarolyn.com/speaking/emcee) the last in-person event in 2019 and the first virtual event in 2020 
+  - Introduced speakers and faciliated Q&A sessions
+  <br><br>
+
 **Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Dec 2021)_ <br>
 Free, two-day workshops to help people build their first website.
   - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 

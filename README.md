@@ -1,6 +1,6 @@
 # Carolyn Stransky
 
-_Software engineer and journalist based in Berlin, Germany_ <br>
+_Software engineer and journalist based in Berlin 🇩🇪_ <br>
 
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
@@ -60,14 +60,17 @@ _This section only accounts for work done post-career change._
 <br><br>
 
 **Acting Editor** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Apr 2022 - Present)_ <br>
-_Previously worked a Reporter from Dec 2020 - Apr 2022_ <br>
-Online publication that provides insights into the future of human sex and sexuality.
-  - Managing a team of writers and the Future of Sex editorial calendar
-  - Writing features and reporting on events relevant to the sex tech community
+Online publication that provides insights into how emerging technologies are expanding human sexuality.
+  - Oversee a team of writers and maintain the editorial focus for futurist publication attracting more than 50,000 monthly visitors and 90,000 monthly page views
+  - Develop article ideas for writers and edit work for readability, grammar, and accuracy
+  - Analyze website traffic and social media analytics to improve online reach and ensure optimal SEO performance
+
+_Previously worked as a Reporter from Dec 2020 - Apr 2022_ <br>
+  - Researched and wrote [original stories on sex and technology](https://futureofsex.net/author/carolyn/) for sophisticated online audience
   - **_Selected articles:_**
+    - [You Can Now Buy Sex Toys from Vending Machines at Berlin’s New Airport](https://futureofsex.net/sex-tech/berlins-new-airport-debuts-sex-toys-vending-machines/)
     - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Exploring Queerness By Switching Up My Vibrators](https://futureofsex.net/sex-tech/exploring-queerness-by-switching-up-my-vibrators/)
-    - [Future of Fingering: Lessons Learned from the Award-Winning Tentilex Project](https://futureofsex.net/sex-tech/future-of-fingering-lessons-learned-from-the-award-winning-tentilex-project/)
+    - [Tech Conference Organizers: Sex Tech Breaks Taboos, Not Codes of Conduct](https://futureofsex.net/sex-tech/tech-conference-organizers-sex-tech-breaks-taboos-not-codes-of-conduct/)
 <br><br>
 
 **Freelance Writer** _(Mar 2020 - Present)_ <br>

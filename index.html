@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="eng">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Edit your site info here -->
+  <title>📖CMD📖Learning📖</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="canonical" href="https://zerodevx.github.io/zero-md/">
+
+  <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2.2.10/webcomponents-loader.min.js"></script>
+  <script type="module" src="./src/index.js"></script>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66946548-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'UA-66946548-3');
+  </script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="fixed-div">
+    <ul id="myList">
+      <li class="active">
+        <a href="#about">About</a>
+      </li>
+      <li>
+        <a href="#experience">Experience</a>
+      </li>
+      <li>
+        <a href="#education">Education</a>
+      </li>
+      <li>
+        <a href="#technicalskills">Technical Skills</a>
+      </li>
+      <li>
+        <a href="#project">Project</a>
+      </li>
+      <li>
+        <a href="#certificate">Certificate</a>
+      </li>
+      <li>
+        <a href="#activities">Activities</a>
+      </li>
+      <li>
+        <a href="#blogarticle">Blog & Article</a>
+      </li>
+    </ul>
+    <header class="page-header">
+      <h1><u>
+          <div class="msg">Windows Popular Command</div>
+        </u></h1>
+    </header>
+    <!-- Your fixed div content goes here -->
+  </div>
+
+  <div class="content" id="showData">
+    <div class="about">
+      <zero-md class="app" src="./data/about.md"></zero-md>
+    </div>
+    <div class="activities">
+      <zero-md class="app" src="./data/activities.md"></zero-md>
+    </div>
+    <div class="blogarticle">
+      <zero-md class="app" src="./data/blogarticle.md"></zero-md>
+    </div>
+    <div class="certificate">
+      <zero-md class="app" src="./data/certificate.md"></zero-md>
+    </div>
+    <div class="education">
+      <zero-md class="app" src="./data/education.md"></zero-md>
+    </div>
+    <div class="experience">
+      <zero-md class="app" src="./data/experience.md"></zero-md>
+    </div>
+    <div class="project">
+      <zero-md class="app" src="./data/project.md"></zero-md>
+    </div>
+    <div class="technicalskills">
+      <zero-md class="app" src="./data/technicalskills.md"></zero-md>
+    </div>
+  </div>
+
+  <script>
+    var msgData = {
+      windows: 'Windows CMD Commands',
+      linux: 'Linux Terminal Commands',
+      macos: 'MacOs Terminal Commands',
+      windows_it: 'Windows IT CMD Commands',
+      git: 'Git Basic Commands',
+      adb: 'ADB Basic Commands',
+      about: "About"
+    };
+    var listItems = document.querySelectorAll('#myList li');
+    var activeOption = listItems[0].textContent ? listItems[0].textContent.replace(/\s+/g, '') : '';;
+    showData(activeOption);
+
+    listItems.forEach(function (item) {
+      item.addEventListener('click', function () {
+        // Remove active class from all li elements
+        listItems.forEach(function (li) {
+          li.classList.remove('active');
+        });
+
+        // Add active class to the clicked li element
+        this.classList.add('active');
+
+        // Get the text of the active li element
+        activeOption = this.textContent ? this.textContent : '';
+        console.log('Active option: ' + activeOption);
+        showData(activeOption);
+      });
+    });
+
+    function showData(activeOption) {
+      // Remove non-word characters: ^[a-zA-Z]
+      activeOption = activeOption.replace(/\W/g, '').toLowerCase()
+      showHeaderMessage(activeOption);
+      var showData = document.querySelectorAll('#showData div');
+      showData.forEach(function (item) {
+        item.style.display = item.className.toLowerCase() === activeOption ? "block" : "none";
+      });
+    }
+
+    function showHeaderMessage(msg) {
+      msg = msg ? msg : 'about';
+      document.getElementsByClassName("msg")[0].innerHTML = msgData[msg];
+    }
+  </script>
+</body>
+
+</html>

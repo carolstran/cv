@@ -1,0 +1,24 @@
+{
+  "name": "essential-command",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 12345 -c-1 -o",
+    "nodemon": "nodemon -x \"npm run start\""
+  },
+  "node-version": {
+    "node": "16.15.1"
+  },
+  "engines": {
+    "node": ">= 14.17.0 <=16.16.0"
+  },
+  "author": "Biswasindhu Mandal",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
